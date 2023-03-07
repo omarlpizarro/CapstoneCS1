@@ -2,7 +2,7 @@
 title: "Case Study 1"
 author: "OLP"
 date: "2023-03-07"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
