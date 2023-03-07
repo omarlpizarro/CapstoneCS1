@@ -1,0 +1,128 @@
+---
+title: "Case Study 1"
+author: "OLP"
+date: "2023-03-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+cantidad de member y casual
+
+## Ask
+### Task business
+
+#### Design marketing strategies aimed at converting casual riders into annual members. 
+
+In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. 
+
+Three questions will guide the future marketing program:
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+The problem is how do annual members and casual riders use Cyclistic bikes differently.
+
+The insights will indicate the trends of each member
+
+## Prepare
+La fuente de datos utilizada para el proyecto es de <https://divvy-tripdata.s3.amazonaws.com/index.html>  
+
+
+The data has been made available by Motivate International Inc. under this license <https://ride.divvybikes.com/data-license-agreement>  
+
+
+The data is zip and is organized in CSV files in comma-separated long format.
+ROCCC - Reliable Original Comprehensive Current Cited  
+
+
+The downloaded data is from February 2022 to January 2023.  
+
+1 file : 202202-divvy-tripdata.zip - 202202-divvy-tripdata.csv  
+2 file : 202202-divvy-tripdata.zip - 202202-divvy-tripdata.csv  
+3 file : 202202-divvy-tripdata.zip - 202202-divvy-tripdata.csv  
+4 file : 202202-divvy-tripdata.zip - 202202-divvy-tripdata.csv  
+6 file : 202202-divvy-tripdata.zip - 202202-divvy-tripdata.csv  
+7 file : 202202-divvy-tripdata.zip - 202202-divvy-tripdata.csv  
+8 file : 202202-divvy-tripdata.zip - 202202-divvy-tripdata.csv  
+9 file : 202202-divvy-tripdata.zip - 202202-divvy-tripdata.csv  
+10 file : 202202-divvy-tripdata.zip - 202202-divvy-tripdata.csv  
+11 file : 202202-divvy-tripdata.zip - 202202-divvy-tripdata.csv  
+12 file : 202301-divvy-tripdata.zip - 202301-divvy-tripdata.csv  
+
+Los pasos fueron los siguientes:  
+1- Ubicar los 12 archivos en una carpeta  
+2- Leer los 12 archivos en un solo dataframe, para ello deben tener la misma estructura  
+3- Guardar el dataframe es un solo archivo csv (Feb2022-Ene2023.csv) de 1.2GB aprox.
+4- Importar el archivo Feb2022-Ene2023.csv a MS SQL debido al tamaño  
+5- Se crea una tabla Tripdata_2022 equivalente al Feb2022-Ene2023.csv  
+6- Generar querys y exportarlas a formato csv  
+
+Se generaron 9 querys:  
+
+freq_by_trip_for_member_for_month.csv  
+duration_trip_casual.csv  
+duration_trip_member.csv  
+end_station_by_member_top100.csv  
+start_station_by_member_top100.csv  
+freq_by_trip_for_member_for_day.csv  
+num_ride_eight_hours.csv  
+cant_trip_per_month.csv  
+cant_trip_per_day.csv
+
+Para efectuar el analisis We have chosen R porque podemos documentar todo el proceso: datos, graficos y conclusiones.  
+
+```{r load packages}
+library(tidyverse)
+library(skimr)
+library(janitor)
+library(lubridate)
+```
+
+Read dataset CSV
+```{r read csv}
+df_freq_trip_mem_month <- read.csv("freq_by_trip_for_member_for_month.csv",sep=';')
+df_freq_trip_mem_day <- read.csv("freq_by_trip_for_member_for_day.csv",sep=';')
+df_dur_trip_casual <- read.csv("duration_trip_casual.csv",sep=';') 
+df_dur_trip_member <- read.csv("duration_trip_member.csv",sep=';') 
+df_end_stat_top100 <- read.csv("end_station_by_member_top100.csv",sep=';')  
+df_start_stat_top100 <- read.csv("start_station_by_member_top100.csv",sep=';') 
+df_num_ride_hours <- read.csv("num_ride_eight_hours.csv",sep=';')  
+df_num_trip_month <- read.csv("cant_trip_per_month.csv",sep=';')
+df_num_trip_day <- read.csv("cant_trip_per_day.csv",sep=';')
+```
+
+
+We explore dataframes
+```{r Number of trip for member por month}
+glimpse(df_freq_trip_mem_month)
+```
+```{r Number of trip for member for day of week}
+glimpse(df_freq_trip_mem_day)
+```
+```{r trip duration of casual members greater than eight hours}
+glimpse(df_dur_trip_casual)
+```
+```{r trip duration of annual members greater than eight hours}
+glimpse(df_dur_trip_member)
+```
+```{r the top 100 most used start stations}
+glimpse(df_start_stat_top100)
+```
+```{r the top 100 most used end stations}
+glimpse(df_end_stat_top100)
+```
+
+```{r number of trips of more than 8 hours per member}
+glimpse(df_num_ride_hours)
+```
+
+```{r number of trips by month per member}
+glimpse(df_num_trip_month)
+```
+
+```{r number of trips by day of week per member}
+glimpse(df_num_trip_day)
+```

@@ -1,0 +1,842 @@
+﻿member_casual;duracion;start_station_name;end_station_name;started_date;ended_date;day_of_week
+member;23:59:00;Lincoln Ave & Roscoe St*;Lincoln Ave & Roscoe St*;2022-08-25 00:41:00;2022-08-25 00:40:00;5
+member;23:59:00;;Lincoln Ave & Roscoe St*;2022-08-27 13:17:00;2022-08-27 13:16:00;7
+member;23:59:00;Halsted St & Polk St;Halsted St & Polk St;2022-09-30 17:28:00;2022-09-30 17:27:00;6
+member;23:59:00;Wells St & Elm St;;2022-11-05 19:45:00;2022-11-06 19:44:00;7
+member;23:59:00;;Green St & Randolph St*;2022-06-23 19:23:00;2022-06-23 19:22:00;5
+member;23:59:00;;Lincoln Ave & Roscoe St*;2022-09-18 19:07:00;2022-09-18 19:06:00;1
+member;23:59:00;;Kingsbury St & Kinzie St;2022-11-18 16:21:00;2022-11-18 16:20:00;6
+member;23:58:00;Leavitt St & Chicago Ave;Leavitt St & Chicago Ave;2022-07-09 20:32:00;2022-07-09 20:30:00;7
+member;23:58:00;;Clark St & Elm St;2022-07-01 05:36:00;2022-07-01 05:34:00;6
+member;23:58:00;Lincoln Ave & Roscoe St*;Lincoln Ave & Roscoe St*;2022-07-26 20:00:00;2022-07-26 19:58:00;3
+member;23:58:00;Lincoln Ave & Roscoe St*;Lincoln Ave & Roscoe St*;2022-08-27 13:18:00;2022-08-27 13:16:00;7
+member;23:57:00;Lincoln Ave & Roscoe St*;Lincoln Ave & Roscoe St*;2022-08-27 13:19:00;2022-08-27 13:16:00;7
+member;23:57:00;Ashland Ave & Division St;Leavitt St & Division St;2022-10-04 17:30:00;2022-10-05 17:27:00;3
+member;23:57:00;;Milwaukee Ave & Grand Ave;2022-09-08 16:04:00;2022-09-08 16:01:00;5
+member;23:56:00;Fort Dearborn Dr & 31st St;MLK Jr Dr & 29th St;2022-11-14 00:22:00;2022-11-14 00:18:00;2
+member;23:55:00;Dearborn St & Monroe St;McClurg Ct & Ohio St;2022-03-25 14:25:00;2022-03-26 14:20:00;6
+member;23:55:00;Clark St & Berwyn Ave;;2022-06-07 17:05:00;2022-06-07 17:00:00;3
+member;23:54:00;LaSalle Dr & Huron St;Kingsbury St & Erie St;2022-11-24 19:54:00;2022-11-25 19:48:00;5
+member;23:54:00;Lincoln Ave & Roscoe St*;Lincoln Ave & Roscoe St*;2022-08-27 13:22:00;2022-08-27 13:16:00;7
+member;23:52:00;Lincoln Ave & Roscoe St*;Lincoln Ave & Roscoe St*;2022-07-26 20:08:00;2022-07-26 20:00:00;3
+member;23:52:00;Lincoln Ave & Roscoe St*;Lincoln Ave & Roscoe St*;2022-07-26 20:08:00;2022-07-26 20:00:00;3
+member;23:51:00;Lincoln Ave & Roscoe St*;Lincoln Ave & Roscoe St*;2022-07-26 16:53:00;2022-07-26 16:44:00;3
+member;23:48:00;;Clinton St & Washington Blvd;2022-06-07 16:19:00;2022-06-07 16:07:00;3
+member;23:42:00;LaSalle St & Washington St;LaSalle St & Jackson Blvd;2023-01-24 17:28:00;2023-01-25 17:10:00;3
+member;23:41:00;Wells St & Concord Ln;Sedgwick St & Webster Ave;2022-04-21 21:05:00;2022-04-22 20:46:00;5
+member;23:41:00;Wells St & Concord Ln;Sedgwick St & Webster Ave;2022-04-21 21:05:00;2022-04-22 20:46:00;5
+member;23:40:00;State St & Kinzie St;Michigan Ave & 18th St;2023-01-24 17:17:00;2023-01-25 16:57:00;3
+member;23:39:00;DuSable Lake Shore Dr & Wellington Ave;DuSable Lake Shore Dr & Wellington Ave;2022-08-31 19:32:00;2022-09-01 19:11:00;4
+member;23:37:00;Wells St & Elm St;Wabash Ave & Adams St;2022-04-02 11:47:00;2022-04-03 11:24:00;7
+member;23:36:00;Western Ave & Winnebago Ave;Campbell Ave & North Ave;2022-11-06 01:54:00;2022-11-06 01:30:00;1
+member;23:35:00;Southport Ave & Waveland Ave;Sheffield Ave & Fullerton Ave;2022-09-13 19:03:00;2022-09-14 18:38:00;3
+member;23:31:00;Greenview Ave & Fullerton Ave;Sheffield Ave & Fullerton Ave;2022-04-20 10:25:00;2022-04-21 09:56:00;4
+member;23:27:00;Clark St & Schiller St;State St & 33rd St;2022-11-06 01:33:00;2022-11-06 01:00:00;1
+member;23:26:00;Clark St & Schiller St;Clarendon Ave & Leland Ave;2022-11-06 02:00:00;2022-11-06 01:26:00;1
+member;23:26:00;Pine Grove Ave & Waveland Ave;McClurg Ct & Ohio St;2022-08-30 17:47:00;2022-08-31 17:13:00;3
+member;23:26:00;;;2022-11-06 01:52:00;2022-11-06 01:18:00;1
+member;23:26:00;University Ave & 57th St;Lake Park Ave & 56th St;2022-12-21 18:23:00;2022-12-22 17:49:00;4
+member;23:25:00;Wells St & Elm St;New St & Illinois St;2022-04-19 20:05:00;2022-04-20 19:30:00;3
+member;23:23:00;Clarendon Ave & Junior Ter;;2022-11-06 01:51:00;2022-11-06 01:14:00;1
+member;23:23:00;Sheridan Rd & Columbia Ave;Sheridan Rd & Columbia Ave;2022-11-06 01:39:00;2022-11-06 01:02:00;1
+member;23:22:00;Halsted St & Roscoe St;Pine Grove Ave & Waveland Ave;2022-08-01 18:44:00;2022-08-02 18:06:00;2
+member;23:19:00;Wells St & Hubbard St;Aberdeen St & Jackson Blvd;2022-11-06 01:46:00;2022-11-06 01:05:00;1
+member;23:14:00;Vincennes Ave & 104th St;Vincennes Ave & 104th St;2022-05-30 12:38:00;2022-05-31 11:52:00;2
+member;23:13:00;Clark St & Grace St;Broadway & Berwyn Ave;2022-11-06 01:59:00;2022-11-06 01:12:00;1
+member;23:13:00;Sheffield Ave & Fullerton Ave;Wilton Ave & Belmont Ave;2022-11-06 01:49:00;2022-11-06 01:02:00;1
+member;23:10:00;Carpenter St & Huron St;Larrabee St & Kingsbury St;2022-05-19 19:29:00;2022-05-20 18:39:00;5
+member;23:09:00;Sheffield Ave & Wellington Ave;Broadway & Sheridan Rd;2022-11-06 01:52:00;2022-11-06 01:01:00;1
+member;23:08:00;Broadway & Barry Ave;Sedgwick St & Webster Ave;2022-11-06 01:58:00;2022-11-06 01:06:00;1
+member;23:05:00;Sheffield Ave & Waveland Ave;Clarendon Ave & Junior Ter;2022-11-06 01:57:00;2022-11-06 01:02:00;1
+member;23:04:00;Wilton Ave & Diversey Pkwy;;2022-11-06 02:00:00;2022-11-06 01:04:00;1
+member;23:03:00;Western Ave & Winnebago Ave;California Ave & Milwaukee Ave;2022-11-06 01:59:00;2022-11-06 01:02:00;1
+member;22:53:00;Dorchester Ave & 49th St;Harper Ave & 59th St;2022-02-04 13:04:00;2022-02-05 11:57:00;6
+member;22:52:00;Lincoln Ave & Fullerton Ave;Southport Ave & Roscoe St;2022-10-14 13:00:00;2022-10-15 11:52:00;6
+member;22:50:00;Lake Park Ave & 53rd St;Lake Park Ave & 56th St;2023-01-04 17:51:00;2023-01-05 16:41:00;4
+member;22:46:00;State St & 35th St;900 W Harrison St;2022-10-08 16:22:00;2022-10-09 15:08:00;7
+member;22:42:00;Wood St & Chicago Ave;Desplaines St & Randolph St;2022-07-09 19:12:00;2022-07-10 17:54:00;7
+member;22:38:00;Indiana Ave & Roosevelt Rd;Aberdeen St & Jackson Blvd;2022-08-16 13:51:00;2022-08-17 12:29:00;3
+member;22:37:00;Rush St & Cedar St;Wood St & Hubbard St;2022-07-16 15:37:00;2022-07-17 14:14:00;7
+member;22:22:00;DuSable Lake Shore Dr & Diversey Pkwy;Bissell St & Armitage Ave*;2022-05-10 08:58:00;2022-05-11 07:20:00;3
+member;22:21:00;Broadway & Waveland Ave;Rush St & Cedar St;2022-07-07 20:23:00;2022-07-08 18:44:00;5
+member;22:21:00;Clark St & Lincoln Ave;Broadway & Belmont Ave;2022-09-10 09:37:00;2022-09-11 07:58:00;7
+member;22:18:00;Dearborn St & Erie St;State St & Chicago Ave;2022-12-26 20:49:00;2022-12-27 19:07:00;2
+member;22:18:00;Lake Park Ave & 56th St;Ellis Ave & 58th St;2022-05-03 08:16:00;2022-05-04 06:34:00;3
+member;22:10:00;DuSable Lake Shore Dr & Diversey Pkwy;Clarendon Ave & Junior Ter;2022-04-06 15:21:00;2022-04-07 13:31:00;4
+member;22:10:00;Sheridan Rd & Montrose Ave;Broadway & Belmont Ave;2022-09-10 09:50:00;2022-09-11 08:00:00;7
+member;22:09:00;University Ave & 57th St;Ellis Ave & 58th St;2022-10-26 16:40:00;2022-10-27 14:49:00;4
+member;22:05:00;Western Ave & Roscoe St;Logan Blvd & Elston Ave;2022-04-20 18:15:00;2022-04-21 16:20:00;4
+member;22:04:00;Manor Ave & Leland Ave;Sawyer Ave & Irving Park Rd;2022-06-29 20:54:00;2022-06-30 18:58:00;4
+member;22:03:00;Montrose Harbor;Broadway & Belmont Ave;2022-09-10 09:57:00;2022-09-11 08:00:00;7
+member;22:03:00;;;2022-06-07 19:07:00;2022-06-07 17:10:00;3
+member;22:03:00;Racine Ave & Belmont Ave;Damen Ave & Wellington Ave;2022-05-30 22:03:00;2022-05-31 20:06:00;2
+member;21:54:00;Franklin St & Chicago Ave;Larrabee St & Kingsbury St;2022-04-29 13:01:00;2022-04-30 10:55:00;6
+member;21:54:00;Western Ave & Roscoe St;Ogden Ave & Chicago Ave;2022-08-16 20:19:00;2022-08-17 18:13:00;3
+member;21:51:00;Base - 2132 W Hubbard;W Armitage Ave & N Sheffield Ave;2022-06-07 19:15:00;2022-06-07 17:06:00;3
+member;21:50:00;Western Ave & Walton St;Wood St & Hubbard St;2023-01-07 15:49:00;2023-01-08 13:39:00;7
+member;21:44:00;Wabash Ave & Grand Ave;McClurg Ct & Ohio St;2022-03-20 12:57:00;2022-03-21 10:41:00;1
+member;21:37:00;Calumet Ave & 35th St;Lake Park Ave & 53rd St;2022-07-02 16:19:00;2022-07-03 13:56:00;7
+member;21:37:00;Wells St & Elm St;Clark St & Lincoln Ave;2022-11-29 17:33:00;2022-11-30 15:10:00;3
+member;21:35:00;Ravenswood Ave & Lawrence Ave;Cottage Grove Ave & 71st St;2022-06-14 17:23:00;2022-06-15 14:58:00;3
+member;21:29:00;Rush St & Cedar St;State St & Chicago Ave;2022-12-26 21:38:00;2022-12-27 19:07:00;2
+member;21:26:00;Woodlawn Ave & 55th St;Blackstone Ave & Hyde Park Blvd;2022-05-31 19:20:00;2022-06-01 16:46:00;3
+member;21:26:00;Broadway & Barry Ave;;2022-02-02 15:48:00;2022-02-03 13:14:00;4
+member;21:20:00;Clybourn Ave & Division St;Clark St & Newport St;2022-05-04 17:59:00;2022-05-05 15:19:00;4
+member;21:20:00;Sheridan Rd & Irving Park Rd;Orleans St & Elm St;2022-09-19 10:21:00;2022-09-20 07:41:00;2
+member;21:13:00;Clark St & Wellington Ave;Broadway & Argyle St;2022-09-18 10:38:00;2022-09-19 07:51:00;1
+member;21:12:00;Clark St & Berwyn Ave;Broadway & Thorndale Ave;2023-01-06 19:06:00;2023-01-07 16:18:00;6
+member;21:12:00;Burnham Harbor;Michigan Ave & 8th St;2022-11-12 12:30:00;2022-11-13 09:42:00;7
+member;21:11:00;Wilton Ave & Diversey Pkwy*;Wilton Ave & Diversey Pkwy*;2022-10-13 14:42:00;2022-10-13 11:53:00;5
+member;21:07:00;Western Ave & Lunt Ave;;2022-02-08 15:25:00;2022-02-09 12:32:00;3
+member;20:59:00;Homewood Ave & 115th St;Homewood Ave & 115th St;2022-10-02 16:41:00;2022-10-03 13:40:00;1
+member;20:55:00;State St & Pearson St;Wabash Ave & Grand Ave;2022-08-12 18:46:00;2022-08-13 15:41:00;6
+member;20:55:00;Emerald Ave & 31st St;Morgan St & 31st St;2022-10-29 19:17:00;2022-10-30 16:12:00;7
+member;20:55:00;Clark St & Wellington Ave;Broadway & Belmont Ave;2022-09-10 11:05:00;2022-09-11 08:00:00;7
+member;20:51:00;Morgan St & Lake St*;Wilton Ave & Diversey Pkwy;2022-04-30 19:26:00;2022-05-01 16:17:00;7
+member;20:51:00;Sheridan Rd & Columbia Ave;State St & Van Buren St;2022-05-07 16:28:00;2022-05-08 13:19:00;7
+member;20:48:00;Halsted St & Clybourn Ave;Southport Ave & Wellington Ave;2022-11-12 10:35:00;2022-11-13 07:23:00;7
+member;20:46:00;Harper Ave & 59th St;Ellis Ave & 55th St;2022-02-26 14:56:00;2022-02-27 11:42:00;7
+member;20:39:00;Ashland Ave & Archer Ave;Damen Ave & Cullerton St;2022-05-07 18:07:00;2022-05-08 14:46:00;7
+member;20:35:00;Michigan Ave & Jackson Blvd;;2022-11-11 16:13:00;2022-11-12 12:48:00;6
+member;20:31:00;Kingsbury St & Kinzie St;Canal St & Adams St;2022-03-04 16:49:00;2022-03-05 13:20:00;6
+member;20:30:00;Cityfront Plaza Dr & Pioneer Ct;Rush St & Superior St;2023-01-28 11:30:00;2023-01-29 08:00:00;7
+member;20:18:00;Theater on the Lake;Broadway & Belmont Ave;2022-09-10 11:40:00;2022-09-11 07:58:00;7
+member;20:10:00;Dorchester Ave & 49th St;Cornell Ave & Hyde Park Blvd;2022-05-11 16:41:00;2022-05-12 12:51:00;4
+member;20:09:00;Ellis Ave & 60th St;Woodlawn Ave & 55th St;2022-04-09 22:31:00;2022-04-10 18:40:00;7
+member;20:08:00;DuSable Lake Shore Dr & Belmont Ave;Theater on the Lake;2022-05-26 18:14:00;2022-05-27 14:22:00;5
+member;20:07:00;Lincoln Park Conservatory;McClurg Ct & Ohio St;2022-03-20 14:35:00;2022-03-21 10:42:00;1
+member;20:06:00;Leavitt St & Belmont Ave;Broadway & Belmont Ave;2022-09-10 11:52:00;2022-09-11 07:58:00;7
+member;19:57:00;California Ave & Altgeld St;Southport Ave & Wellington Ave;2022-11-12 11:27:00;2022-11-13 07:24:00;7
+member;19:54:00;California Ave & Francis Pl (Temp);Kedzie Ave & Milwaukee Ave;2022-08-10 18:07:00;2022-08-11 14:01:00;4
+member;19:50:00;Lakefront Trail & Bryn Mawr Ave;Broadway & Ridge Ave;2022-06-14 17:48:00;2022-06-15 13:38:00;3
+member;19:48:00;Leavitt St & Lawrence Ave;Leavitt St & Lawrence Ave;2022-06-04 20:12:00;2022-06-05 16:00:00;7
+member;19:33:00;Franklin St & Chicago Ave;Michigan Ave & Lake St;2022-06-14 18:36:00;2022-06-15 14:09:00;3
+member;19:31:00;Sangamon St & Washington Blvd;Damen Ave & Cortland St;2022-06-18 17:16:00;2022-06-19 12:47:00;7
+member;19:29:00;Rush St & Superior St;Wells St & Huron St;2022-02-03 17:34:00;2022-02-04 13:03:00;5
+member;19:28:00;Clark St & Berwyn Ave;Adler Planetarium;2022-08-16 14:29:00;2022-08-17 09:57:00;3
+member;19:26:00;Lincoln Ave & Belle Plaine Ave;Halsted St & Roscoe St;2022-09-16 01:57:00;2022-09-16 21:23:00;6
+member;19:26:00;Sedgwick St & Schiller St;Sheffield Ave & Willow St;2022-06-11 16:40:00;2022-06-12 12:06:00;7
+member;19:26:00;Cornell Dr & Hayes Dr;;2022-09-28 11:05:00;2022-09-21 06:31:00;4
+member;19:24:00;Damen Ave & Leland Ave;DuSable Lake Shore Dr & Wellington Ave;2022-05-09 16:58:00;2022-05-10 12:22:00;2
+member;19:19:00;Wells St & Evergreen Ave;Wilton Ave & Diversey Pkwy*;2022-09-12 18:28:00;2022-09-13 13:47:00;2
+member;19:19:00;Damen Ave & Charleston St;;2022-02-08 17:12:00;2022-02-09 12:31:00;3
+member;19:17:00;Southport Ave & Clybourn Ave;Elston Ave & Cortland St;2022-11-11 22:22:00;2022-11-12 17:39:00;6
+member;19:11:00;Aberdeen St & Monroe St;Ashland Ave & Augusta Blvd;2022-08-12 16:29:00;2022-08-13 11:40:00;6
+member;19:11:00;Streeter Dr & Grand Ave;DuSable Lake Shore Dr & Wellington Ave;2022-09-20 17:46:00;2022-09-21 12:57:00;3
+member;19:09:00;Ellis Ave & 60th St;Ellis Ave & 55th St;2022-03-04 17:01:00;2022-03-05 12:10:00;6
+member;19:09:00;Cottage Grove Ave & 47th St;Cottage Grove Ave & Oakwood Blvd;2022-07-03 18:52:00;2022-07-04 14:01:00;1
+member;19:05:00;Clark St & Chicago Ave;McClurg Ct & Ohio St;2022-03-25 19:15:00;2022-03-26 14:20:00;6
+member;19:05:00;Millennium Park;Ashland Ave & Augusta Blvd;2022-08-12 16:09:00;2022-08-13 11:14:00;6
+member;18:57:00;Ellis Ave & 53rd St;Ellis Ave & 55th St;2022-08-16 14:40:00;2022-08-17 09:37:00;3
+member;18:57:00;Sheridan Rd & Irving Park Rd;Damen Ave & Leland Ave;2022-10-15 08:33:00;2022-10-16 03:30:00;7
+member;18:56:00;Lincoln Ave & Fullerton Ave;Daley Center Plaza;2022-10-11 13:07:00;2022-10-12 08:03:00;3
+member;18:55:00;Aberdeen St & Jackson Blvd;Peoria St & Jackson Blvd;2022-10-31 14:05:00;2022-11-01 09:00:00;2
+member;18:54:00;Austin Blvd & Chicago Ave;Austin Blvd & Chicago Ave;2022-11-13 21:56:00;2022-11-14 16:50:00;1
+member;18:54:00;Racine Ave & Congress Pkwy;Clark St & Lake St;2022-08-22 08:52:00;2022-08-23 03:46:00;2
+member;18:51:00;Clark St & Lake St;McClurg Ct & Ohio St;2022-08-31 16:53:00;2022-09-01 11:44:00;4
+member;18:50:00;Sheridan Rd & Montrose Ave;Southport Ave & Irving Park Rd;2022-06-17 23:27:00;2022-06-18 18:17:00;6
+member;18:47:00;Clifton Ave & Armitage Ave;Bissell St & Armitage Ave*;2022-09-29 16:35:00;2022-09-30 11:22:00;5
+member;18:44:00;Sedgwick St & Huron St;DuSable Lake Shore Dr & Diversey Pkwy;2022-10-08 14:18:00;2022-10-09 09:02:00;7
+member;18:40:00;Leavitt St & Addison St;Damen Ave & Charleston St;2022-09-30 18:04:00;2022-10-01 12:44:00;6
+member;18:39:00;Clark St & Lunt Ave;Broadway & Argyle St;2022-06-11 13:14:00;2022-06-12 07:53:00;7
+member;18:38:00;Broadway & Barry Ave;Wilton Ave & Diversey Pkwy*;2022-09-12 19:09:00;2022-09-13 13:47:00;2
+member;18:38:00;Clinton St & Lake St;Ashland Ave & Augusta Blvd;2022-08-12 17:02:00;2022-08-13 11:40:00;6
+member;18:36:00;Lincoln Ave & Addison St;Wilton Ave & Diversey Pkwy*;2022-09-12 19:11:00;2022-09-13 13:47:00;2
+member;18:35:00;Laflin St & Cullerton St;Racine Ave & 15th St;2022-05-30 15:54:00;2022-05-31 10:29:00;2
+member;18:33:00;Ravenswood Ave & Lawrence Ave;Broadway & Argyle St;2022-06-11 13:21:00;2022-06-12 07:54:00;7
+member;18:32:00;Wells St & Concord Ln;Clark St & Lincoln Ave;2022-12-27 18:44:00;2022-12-28 13:16:00;3
+member;18:32:00;Broadway & Sheridan Rd;Wilton Ave & Belmont Ave;2022-04-16 16:39:00;2022-04-17 11:11:00;7
+member;18:29:00;Cottage Grove Ave & 51st St;Museum of Science and Industry;2022-12-31 21:52:00;2023-01-01 16:21:00;7
+member;18:28:00;St. Clair St & Erie St;State St & Chicago Ave;2022-12-27 00:39:00;2022-12-27 19:07:00;3
+member;18:28:00;California Ave & Fletcher St;Southport Ave & Wellington Ave;2022-11-12 12:55:00;2022-11-13 07:23:00;7
+member;18:28:00;Stetson Ave & South Water St;DuSable Lake Shore Dr & North Blvd;2022-09-22 14:33:00;2022-09-23 09:01:00;5
+member;18:26:00;Southport Ave & Roscoe St;Southport Ave & Roscoe St;2023-01-08 14:31:00;2023-01-09 08:57:00;1
+member;18:21:00;Clark St & Berwyn Ave;Broadway & Argyle St;2022-06-11 13:32:00;2022-06-12 07:53:00;7
+member;18:20:00;Halsted St & Wrightwood Ave;Wilton Ave & Diversey Pkwy*;2022-10-01 14:34:00;2022-10-02 08:54:00;7
+member;18:19:00;Damen Ave & Thomas St (Augusta Blvd);Ashland Ave & Augusta Blvd;2022-08-12 17:21:00;2022-08-13 11:40:00;6
+member;18:17:00;Clark St & Lake St;Columbus Dr & Randolph St;2023-01-07 12:36:00;2023-01-08 06:53:00;7
+member;18:14:00;May St & Taylor St;Columbus Dr & Randolph St;2023-01-07 12:36:00;2023-01-08 06:50:00;7
+member;18:11:00;State St & Chicago Ave;Clark St & Lake St;2022-10-14 18:58:00;2022-10-15 13:09:00;6
+member;18:10:00;900 W Harrison St;Peoria St & Jackson Blvd;2022-10-31 14:50:00;2022-11-01 09:00:00;2
+member;18:07:00;DuSable Lake Shore Dr & Diversey Pkwy;New St & Illinois St;2022-04-01 13:13:00;2022-04-02 07:20:00;6
+member;18:05:00;Malcolm X College;Loomis St & Jackson Blvd;2022-10-31 14:34:00;2022-11-01 08:39:00;2
+member;18:02:00;Halsted St & Roscoe St;Pine Grove Ave & Waveland Ave;2022-08-28 17:13:00;2022-08-29 11:15:00;1
+member;18:00:00;Damen Ave & Leland Ave;Sheridan Rd & Loyola Ave;2022-10-07 17:51:00;2022-10-08 11:51:00;6
+member;18:00:00;Ashland Ave & Grace St;Sheffield Ave & Fullerton Ave;2022-06-09 17:40:00;2022-06-10 11:40:00;5
+member;17:59:00;DuSable Lake Shore Dr & Wellington Ave;Halsted St & Clybourn Ave;2022-08-16 17:45:00;2022-08-17 11:44:00;3
+member;17:56:00;Montrose Harbor;DuSable Lake Shore Dr & North Blvd;2022-09-22 15:05:00;2022-09-23 09:01:00;5
+member;17:56:00;California Ave & Fletcher St;California Ave & Fletcher St;2022-06-18 21:29:00;2022-06-19 15:25:00;7
+member;17:53:00;Kimbark Ave & 53rd St;Ellis Ave & 58th St;2023-01-08 16:58:00;2023-01-09 10:51:00;1
+member;17:53:00;Morgan St & Polk St;Peoria St & Jackson Blvd;2022-10-31 15:07:00;2022-11-01 09:00:00;2
+member;17:51:00;Franklin St & Monroe St;Canal St & Taylor St;2022-12-07 17:39:00;2022-12-08 11:30:00;4
+member;17:50:00;Michigan Ave & Lake St;Ashland Ave & Grand Ave;2022-06-15 21:13:00;2022-06-16 15:03:00;4
+member;17:50:00;Woodlawn Ave & 55th St;University Ave & 57th St;2022-04-21 13:57:00;2022-04-22 07:47:00;5
+member;17:49:00;Morgan St & Polk St;Peoria St & Jackson Blvd;2022-10-31 15:11:00;2022-11-01 09:00:00;2
+member;17:48:00;Kingsbury St & Erie St;DuSable Lake Shore Dr & Belmont Ave;2023-01-15 14:51:00;2023-01-16 08:39:00;1
+member;17:46:00;Dearborn St & Adams St;Harper Ave & 59th St;2022-10-04 16:38:00;2022-10-05 10:24:00;3
+member;17:44:00;Orleans St & Merchandise Mart Plaza;Clark St & Lake St;2022-10-14 19:25:00;2022-10-15 13:09:00;6
+member;17:43:00;Ellis Ave & 55th St;Ellis Ave & 53rd St;2022-03-09 15:20:00;2022-03-10 09:03:00;4
+member;17:38:00;Clark St & Chicago Ave;Paulina St & 18th St;2022-09-03 18:39:00;2022-09-04 12:17:00;7
+member;17:36:00;Kedzie Ave & Milwaukee Ave;Central Park Ave & Elbridge Ave;2022-12-16 23:03:00;2022-12-17 16:39:00;6
+member;17:36:00;DuSable Lake Shore Dr & Belmont Ave;McClurg Ct & Ohio St;2022-03-10 15:56:00;2022-03-11 09:32:00;5
+member;17:36:00;Paulina Ave & North Ave;Broadway & Argyle St;2022-06-11 14:17:00;2022-06-12 07:53:00;7
+member;17:35:00;Morgan St & Lake St;Fairbanks Ct & Grand Ave;2022-03-21 20:52:00;2022-03-22 14:27:00;2
+member;17:32:00;Morgan St & Polk St;Dearborn St & Erie St;2022-04-11 14:22:00;2022-04-12 07:54:00;2
+member;17:31:00;Christiana Ave & Lawrence Ave;Base - 2132 W Hubbard Warehouse;2022-02-03 20:33:00;2022-02-04 14:04:00;5
+member;17:30:00;Paulina Ave & North Ave;Damen Ave & Pierce Ave;2022-10-15 16:31:00;2022-10-16 10:01:00;7
+member;17:21:00;LaSalle St & Illinois St;Fairbanks Ct & Grand Ave;2022-10-16 00:36:00;2022-10-16 17:57:00;1
+member;17:21:00;Wells St & Evergreen Ave;DuSable Lake Shore Dr & North Blvd;2022-09-22 15:40:00;2022-09-23 09:01:00;5
+member;17:21:00;Broadway & Thorndale Ave;Broadway & Berwyn Ave;2022-10-28 17:21:00;2022-10-29 10:42:00;6
+member;17:20:00;Ravenswood Ave & Irving Park Rd;Ravenswood Ave & Berteau Ave;2022-08-07 14:53:00;2022-08-08 08:13:00;1
+member;17:15:00;Damen Ave & Division St;Sheffield Ave & Fullerton Ave;2022-03-21 21:23:00;2022-03-22 14:38:00;2
+member;17:13:00;Keystone Ave & Fullerton Ave;Kosciuszko Park;2022-08-04 19:03:00;2022-08-05 12:16:00;5
+member;17:10:00;Clark St & Newport St;Clark St & Wrightwood Ave;2022-11-14 15:01:00;2022-11-15 08:11:00;2
+member;17:10:00;Sangamon St & Washington Blvd;Loomis St & Jackson Blvd;2022-10-31 15:18:00;2022-11-01 08:28:00;2
+member;17:09:00;Clark St & Drummond Pl;Sedgwick St & North Ave;2022-09-07 17:03:00;2022-09-08 10:12:00;4
+member;17:07:00;Desplaines St & Kinzie St;McClurg Ct & Ohio St;2022-03-25 21:13:00;2022-03-26 14:20:00;6
+member;17:01:00;Calumet Ave & 51st St;Cottage Grove Ave & 43rd St;2022-10-18 17:33:00;2022-10-19 10:34:00;3
+member;17:01:00;Ashland Ave & Wrightwood Ave;Lincoln Ave & Belmont Ave (Temp);2022-08-25 18:34:00;2022-08-26 11:35:00;5
+member;16:59:00;Peoria St & Jackson Blvd;Paulina St & Flournoy St;2022-03-07 16:19:00;2022-03-08 09:18:00;2
+member;16:56:00;Michigan Ave & 8th St;DuSable Lake Shore Dr & North Blvd;2022-09-22 16:05:00;2022-09-23 09:01:00;5
+member;16:56:00;Sheridan Rd & Montrose Ave;New St & Illinois St;2022-04-01 14:28:00;2022-04-02 07:24:00;6
+member;16:56:00;Broadway & Thorndale Ave;Broadway & Argyle St;2022-06-11 14:57:00;2022-06-12 07:53:00;7
+member;16:55:00;Wolcott Ave & Polk St;Loomis St & Jackson Blvd;2022-10-31 15:34:00;2022-11-01 08:29:00;2
+member;16:53:00;Dearborn Pkwy & Delaware Pl;Ritchie Ct & Banks St;2022-05-18 18:32:00;2022-05-19 11:25:00;4
+member;16:52:00;Wilton Ave & Diversey Pkwy;Clark St & Wrightwood Ave;2022-11-14 15:19:00;2022-11-15 08:11:00;2
+member;16:52:00;Clark St & Randolph St;Clark St & Armitage Ave;2022-03-04 20:28:00;2022-03-05 13:20:00;6
+member;16:51:00;State St & 33rd St;Calumet Ave & 33rd St;2022-04-20 18:25:00;2022-04-21 11:16:00;4
+member;16:50:00;Federal St & Polk St;LaSalle St & Washington St;2022-03-15 18:33:00;2022-03-16 11:23:00;3
+member;16:49:00;Chicago Ave & Washington St;Sheridan Rd & Noyes St (NU);2022-07-15 18:23:00;2022-07-16 11:12:00;6
+member;16:49:00;Theater on the Lake;Clark St & Winnemac Ave;2022-09-13 18:11:00;2022-09-14 11:00:00;3
+member;16:48:00;Ellis Ave & 53rd St;Ellis Ave & 58th St;2022-11-28 14:52:00;2022-11-29 07:40:00;2
+member;16:46:00;Rush St & Cedar St;Bissell St & Armitage Ave*;2022-05-11 14:44:00;2022-05-12 07:30:00;4
+member;16:45:00;Ellis Ave & 60th St;University Ave & 57th St;2022-05-04 16:40:00;2022-05-05 09:25:00;4
+member;16:45:00;Western Ave & Winnebago Ave;Wood St & Milwaukee Ave;2022-07-07 19:13:00;2022-07-08 11:58:00;5
+member;16:45:00;Indiana Ave & Roosevelt Rd;;2022-02-08 17:29:00;2022-02-09 10:14:00;3
+member;16:42:00;Morgan Ave & 14th Pl;Throop St & Taylor St;2022-08-31 18:35:00;2022-09-01 11:17:00;4
+member;16:40:00;DuSable Lake Shore Dr & North Blvd;Wood St & Milwaukee Ave;2022-11-06 16:52:00;2022-11-07 09:32:00;1
+member;16:38:00;Franklin St & Jackson Blvd;Calumet Ave & 18th St;2022-09-24 23:26:00;2022-09-25 16:04:00;7
+member;16:38:00;Clark St & Randolph St;DuSable Lake Shore Dr & North Blvd;2022-09-22 16:23:00;2022-09-23 09:01:00;5
+member;16:37:00;DuSable Lake Shore Dr & North Blvd;Lincoln Ave & Fullerton Ave;2022-06-16 19:41:00;2022-06-17 12:18:00;5
+member;16:33:00;Clinton St & Polk St;Shields Ave & 31st St;2022-02-23 17:33:00;2022-02-24 10:06:00;4
+member;16:32:00;Pulaski Rd & Eddy St (Temp);Avers Ave & Belmont Ave;2022-09-02 17:56:00;2022-09-03 10:28:00;6
+member;16:31:00;LaSalle St & Jackson Blvd;Broadway & Barry Ave;2022-10-10 15:38:00;2022-10-11 08:09:00;2
+member;16:31:00;Larrabee St & Oak St;LaSalle St & Washington St;2022-03-15 18:52:00;2022-03-16 11:23:00;3
+member;16:29:00;Clark St & Lincoln Ave;Paulina Ave & North Ave;2022-08-14 02:26:00;2022-08-14 18:55:00;1
+member;16:28:00;Fairbanks St & Superior St;;2022-02-08 17:46:00;2022-02-09 10:14:00;3
+member;16:27:00;Dearborn St & Erie St;;2022-02-08 18:22:00;2022-02-09 10:49:00;3
+member;16:27:00;Indiana Ave & Roosevelt Rd;Michigan Ave & Madison St;2022-10-22 17:44:00;2022-10-23 10:11:00;7
+member;16:26:00;Southport Ave & Waveland Ave;Clark St & Wrightwood Ave;2022-11-14 15:45:00;2022-11-15 08:11:00;2
+member;16:25:00;Ravenswood Ave & Lawrence Ave;Clark St & Bryn Mawr Ave;2023-01-26 16:51:00;2023-01-27 09:16:00;5
+member;16:24:00;Washtenaw Ave & Lawrence Ave;Damen Ave & Leland Ave;2022-11-06 14:34:00;2022-11-07 06:58:00;1
+member;16:22:00;Kingsbury St & Kinzie St;McClurg Ct & Ohio St;2022-03-10 17:11:00;2022-03-11 09:33:00;5
+member;16:20:00;California Ave & Francis Pl (Temp);Kedzie Ave & Bryn Mawr Ave;2022-08-11 12:46:00;2022-08-12 05:06:00;5
+member;16:19:00;Mies van der Rohe Way & Chestnut St;Leavitt St & Lawrence Ave;2022-09-20 15:48:00;2022-09-21 08:07:00;3
+member;16:19:00;State St & Harrison St;Ashland Ave & Archer Ave;2022-09-09 13:39:00;2022-09-10 05:58:00;6
+member;16:17:00;Shore Dr & 55th St;Clark St & Ida B Wells Dr;2022-09-16 19:42:00;2022-09-17 11:59:00;6
+member;16:17:00;Michigan Ave & 18th St;Michigan Ave & 14th St;2022-11-04 20:13:00;2022-11-05 12:30:00;6
+member;16:17:00;Michigan Ave & 18th St;Michigan Ave & 14th St;2022-11-04 20:13:00;2022-11-05 12:30:00;6
+member;16:17:00;Michigan Ave & 18th St;Michigan Ave & 14th St;2022-11-04 20:13:00;2022-11-05 12:30:00;6
+member;16:16:00;Clark St & Wellington Ave;DuSable Lake Shore Dr & Wellington Ave;2022-10-05 18:03:00;2022-10-06 10:19:00;4
+member;16:14:00;State St & Kinzie St;McClurg Ct & Ohio St;2022-03-10 17:18:00;2022-03-11 09:32:00;5
+member;16:12:00;Southport Ave & Wrightwood Ave;Sheffield Ave & Kingsbury St;2022-05-21 18:48:00;2022-05-22 11:00:00;7
+member;16:12:00;Clark St & Grace St;Clark St & Berwyn Ave;2022-09-18 18:17:00;2022-09-19 10:29:00;1
+member;16:12:00;Kingsbury St & Kinzie St;Sheffield Ave & Fullerton Ave;2022-04-03 15:15:00;2022-04-04 07:27:00;1
+member;16:12:00;McCormick Place;Laflin St & Cullerton St;2022-08-27 21:52:00;2022-08-28 14:04:00;7
+member;16:11:00;Clark St & Wrightwood Ave;Lincoln Ave & Diversey Pkwy;2022-10-10 18:14:00;2022-10-11 10:25:00;2
+member;16:11:00;Clark St & Wrightwood Ave;Lincoln Park Conservatory;2022-09-30 16:29:00;2022-10-01 08:40:00;6
+member;16:10:00;Canal St & Madison St;McClurg Ct & Ohio St;2022-03-10 17:22:00;2022-03-11 09:32:00;5
+member;16:10:00;Canal St & Jackson Blvd;New St & Illinois St;2022-04-01 15:10:00;2022-04-02 07:20:00;6
+member;16:06:00;Dearborn St & Monroe St;Canal St & Jackson Blvd;2022-06-17 15:38:00;2022-06-18 07:44:00;6
+member;16:05:00;Bissell St & Armitage Ave;Bissell St & Armitage Ave;2022-03-20 17:03:00;2022-03-21 09:08:00;1
+member;16:03:00;Clinton St & Lake St;Wabash Ave & 9th St;2022-11-01 17:05:00;2022-11-02 09:08:00;3
+member;16:03:00;Central St & Girard Ave;Central St & Girard Ave;2022-08-03 15:46:00;2022-08-04 07:49:00;4
+member;16:01:00;Daley Center Plaza;Michigan Ave & Madison St;2022-10-22 18:10:00;2022-10-23 10:11:00;7
+member;16:01:00;New St & Illinois St;Ritchie Ct & Banks St;2022-02-08 18:50:00;2022-02-09 10:51:00;3
+member;15:59:00;Larrabee St & North Ave;Lakefront Trail & Wilson Ave;2022-06-27 21:20:00;2022-06-28 13:19:00;2
+member;15:58:00;Morgan St & Polk St;State St & 95th St;2022-08-25 15:23:00;2022-08-26 07:21:00;5
+member;15:56:00;Fairbanks Ct & Grand Ave;;2022-02-08 18:18:00;2022-02-09 10:14:00;3
+member;15:56:00;Ellis Ave & 55th St;Ellis Ave & 53rd St;2022-03-09 17:07:00;2022-03-10 09:03:00;4
+member;15:53:00;Broadway & Cornelia Ave;Broadway & Belmont Ave;2022-05-13 20:08:00;2022-05-14 12:01:00;6
+member;15:51:00;Wells St & Evergreen Ave;New St & Illinois St;2022-04-01 15:29:00;2022-04-02 07:20:00;6
+member;15:51:00;Mies van der Rohe Way & Chestnut St;DuSable Lake Shore Dr & North Blvd;2022-09-22 17:10:00;2022-09-23 09:01:00;5
+member;15:50:00;Sheffield Ave & Fullerton Ave;Sheffield Ave & Wellington Ave;2023-01-20 15:40:00;2023-01-21 07:30:00;6
+member;15:49:00;Theater on the Lake;Damen Ave & Pierce Ave;2022-09-05 14:58:00;2022-09-06 06:47:00;2
+member;15:48:00;Kingsbury St & Kinzie St;Canal St & Monroe St;2022-03-28 16:05:00;2022-03-29 07:53:00;2
+member;15:47:00;Clarendon Ave & Junior Ter;Clarendon Ave & Gordon Ter;2022-02-25 23:19:00;2022-02-26 15:06:00;6
+member;15:47:00;Ellis Ave & 58th St;Ellis Ave & 58th St;2022-11-14 17:57:00;2022-11-15 09:44:00;2
+member;15:46:00;Halsted St & Clybourn Ave;Larrabee St & Kingsbury St;2022-08-21 16:21:00;2022-08-22 08:07:00;1
+member;15:45:00;Dearborn St & Erie St;LaSalle St & Washington St;2022-03-15 19:38:00;2022-03-16 11:23:00;3
+member;15:45:00;State St & Randolph St;;2022-02-07 17:18:00;2022-02-08 09:03:00;2
+member;15:44:00;Franklin St & Lake St;Broadway & Barry Ave;2022-10-10 16:25:00;2022-10-11 08:09:00;2
+member;15:44:00;Broadway & Barry Ave;Pine Grove Ave & Irving Park Rd;2023-01-26 18:43:00;2023-01-27 10:27:00;5
+member;15:41:00;Wells St & Huron St;Michigan Ave & 14th St;2022-06-11 22:34:00;2022-06-12 14:15:00;7
+member;15:40:00;Broadway & Belmont Ave;Sheffield Ave & Wellington Ave;2023-01-20 15:50:00;2023-01-21 07:30:00;6
+member;15:40:00;Daley Center Plaza;Larrabee St & Kingsbury St;2022-03-28 16:21:00;2022-03-29 08:01:00;2
+member;15:39:00;Fairbanks Ct & Grand Ave;Wacker Dr & Washington St;2022-12-23 16:50:00;2022-12-24 08:29:00;6
+member;15:38:00;Clinton St & Tilden St;LaSalle St & Washington St;2022-06-18 16:42:00;2022-06-19 08:20:00;7
+member;15:36:00;Dearborn St & Monroe St;Sheffield Ave & Wellington Ave;2023-01-20 15:54:00;2023-01-21 07:30:00;6
+member;15:35:00;Oakley Ave & Touhy Ave;Clark St & Lunt Ave;2022-04-29 18:06:00;2022-04-30 09:41:00;6
+member;15:34:00;Wacker Dr & Washington St;;2022-02-14 16:02:00;2022-02-15 07:36:00;2
+member;15:32:00;LaSalle St & Jackson Blvd;Wabash Ave & Roosevelt Rd;2022-07-03 16:06:00;2022-07-04 07:38:00;1
+member;15:31:00;Larrabee St & Kingsbury St;State St & Chicago Ave;2022-03-09 17:45:00;2022-03-10 09:16:00;4
+member;15:31:00;Orleans St & Merchandise Mart Plaza;Clinton St & Jackson Blvd;2022-10-16 16:27:00;2022-10-17 07:58:00;1
+member;15:27:00;Ellis Ave & 58th St;Harper Ave & 59th St;2022-05-27 15:52:00;2022-05-28 07:19:00;6
+member;15:26:00;Canal St & Adams St;Dearborn St & Monroe St;2022-12-28 18:19:00;2022-12-29 09:45:00;4
+member;15:25:00;Kimbark Ave & 53rd St;Ellis Ave & 53rd St;2022-03-09 17:38:00;2022-03-10 09:03:00;4
+member;15:22:00;Wabash Ave & 16th St;Canal St & Jackson Blvd;2022-06-17 16:22:00;2022-06-18 07:44:00;6
+member;15:21:00;University Ave & 57th St;University Ave & 57th St;2022-10-13 17:17:00;2022-10-14 08:38:00;5
+member;15:19:00;Ogden Ave & Chicago Ave;Clinton St & Jackson Blvd;2022-10-16 16:39:00;2022-10-17 07:58:00;1
+member;15:19:00;Clark St & Elm St;McClurg Ct & Ohio St;2022-03-19 21:30:00;2022-03-20 12:49:00;7
+member;15:18:00;Evanston Civic Center;Benson Ave & Church St;2022-05-31 17:41:00;2022-06-01 08:59:00;3
+member;15:17:00;Canal St & Madison St;Fairbanks Ct & Grand Ave;2022-09-13 17:04:00;2022-09-14 08:21:00;3
+member;15:17:00;Lakeview Ave & Fullerton Pkwy;Broadway & Barry Ave;2022-10-10 16:52:00;2022-10-11 08:09:00;2
+member;15:17:00;Talman Ave & Addison St;Broadway & Barry Ave;2022-10-10 16:52:00;2022-10-11 08:09:00;2
+member;15:15:00;Seeley Ave & Roscoe St;Damen Ave & Clybourn Ave;2022-09-15 08:27:00;2022-09-15 23:42:00;5
+member;15:08:00;Ritchie Ct & Banks St;Racine Ave & 18th St;2022-04-11 06:47:00;2022-04-11 21:55:00;2
+member;15:07:00;Indiana Ave & Roosevelt Rd;DuSable Lake Shore Dr & North Blvd;2022-09-22 17:51:00;2022-09-23 08:58:00;5
+member;15:07:00;Ravenswood Ave & Irving Park Rd;Clark St & Bryn Mawr Ave;2022-04-15 22:26:00;2022-04-16 13:33:00;6
+member;15:07:00;Broadway & Sheridan Rd;Broadway & Belmont Ave;2022-02-24 18:03:00;2022-02-25 09:10:00;5
+member;15:07:00;Lake Park Ave & 53rd St;Woodlawn Ave & 55th St;2022-11-10 18:11:00;2022-11-11 09:18:00;5
+member;15:04:00;Canal St & Monroe St;Loomis St & Jackson Blvd;2022-10-19 17:31:00;2022-10-20 08:35:00;4
+member;15:03:00;Clinton St & Madison St;Loomis St & Jackson Blvd;2022-10-31 17:25:00;2022-11-01 08:28:00;2
+member;15:03:00;Halsted St & Wrightwood Ave;Sheffield Ave & Webster Ave;2022-04-06 17:22:00;2022-04-07 08:25:00;4
+member;15:03:00;Central St & Girard Ave;Central St Metra;2022-02-28 16:19:00;2022-03-01 07:22:00;2
+member;15:00:00;State St & 35th St;Calumet Ave & 33rd St;2022-04-06 20:14:00;2022-04-07 11:14:00;4
+member;14:59:00;Clark St & Drummond Pl;Streeter Dr & Grand Ave;2022-06-21 17:03:00;2022-06-22 08:02:00;3
+member;14:58:00;Canal St & Adams St;Field Blvd & South Water St;2022-08-02 17:43:00;2022-08-03 08:41:00;3
+member;14:58:00;Clark St & Ida B Wells Dr;State St & Randolph St;2022-12-07 17:11:00;2022-12-08 08:09:00;4
+member;14:57:00;Wells St & Hubbard St;Streeter Dr & Grand Ave;2022-06-21 17:06:00;2022-06-22 08:03:00;3
+member;14:57:00;Damen Ave & Thomas St (Augusta Blvd);Damen Ave & Thomas St (Augusta Blvd);2022-06-01 00:36:00;2022-06-01 15:33:00;4
+member;14:57:00;Wells St & Hubbard St;Streeter Dr & Grand Ave;2022-06-21 17:06:00;2022-06-22 08:03:00;3
+member;14:56:00;Clinton St & Jackson Blvd;Wells St & Evergreen Ave;2022-04-27 08:35:00;2022-04-27 23:31:00;4
+member;14:56:00;University Ave & 57th St;Lake Park Ave & 53rd St;2022-03-01 17:29:00;2022-03-02 08:25:00;3
+member;14:55:00;Michigan Ave & Lake St;Larrabee St & Webster Ave;2022-09-14 17:18:00;2022-09-15 08:13:00;4
+member;14:54:00;Wells St & Elm St;Wells St & Elm St;2022-03-25 18:18:00;2022-03-26 09:12:00;6
+member;14:51:00;California Ave & Cortez St;Streeter Dr & Grand Ave;2022-06-21 17:11:00;2022-06-22 08:02:00;3
+member;14:50:00;DuSable Lake Shore Dr & Monroe St;Streeter Dr & Grand Ave;2022-06-21 17:12:00;2022-06-22 08:02:00;3
+member;14:46:00;Morgan St & Lake St;Halsted St & Clybourn Ave;2022-07-16 23:33:00;2022-07-17 14:19:00;7
+member;14:45:00;Ashland Ave & Wellington Ave;Southport Ave & Belmont Ave;2022-10-13 22:12:00;2022-10-14 12:57:00;5
+member;14:44:00;Sedgwick St & Huron St;DuSable Lake Shore Dr & North Blvd;2022-09-22 18:14:00;2022-09-23 08:58:00;5
+member;14:44:00;State St & Chicago Ave;LaSalle St & Washington St;2022-06-18 17:36:00;2022-06-19 08:20:00;7
+member;14:43:00;Clark St & Leland Ave;Ravenswood Ave & Lawrence Ave;2022-10-09 16:47:00;2022-10-10 07:30:00;1
+member;14:42:00;State St & Randolph St;Loomis St & Jackson Blvd;2022-10-31 17:47:00;2022-11-01 08:29:00;2
+member;14:42:00;Central Ave & Lake St;Central Ave & Chicago Ave;2023-01-03 21:36:00;2023-01-04 12:18:00;3
+member;14:38:00;Lincoln Ave & Addison St;Buckingham Fountain (Temp);2022-08-05 18:13:00;2022-08-06 08:51:00;6
+member;14:38:00;Field Museum;Clark St & Elm St;2022-10-13 21:39:00;2022-10-14 12:17:00;5
+member;14:37:00;Rush St & Cedar St;Rush St & Cedar St;2022-05-10 23:31:00;2022-05-11 14:08:00;3
+member;14:36:00;Mies van der Rohe Way & Chestnut St;DuSable Lake Shore Dr & North Blvd;2022-08-12 18:15:00;2022-08-13 08:51:00;6
+member;14:34:00;California Ave & Milwaukee Ave;California Ave & Altgeld St;2022-10-20 22:57:00;2022-10-21 13:31:00;5
+member;14:32:00;Clark St & Chicago Ave;Damen Ave & Cullerton St;2022-05-13 01:11:00;2022-05-13 15:43:00;6
+member;14:32:00;Ellis Ave & 58th St;Ellis Ave & 53rd St;2022-03-09 18:31:00;2022-03-10 09:03:00;4
+member;14:31:00;Ashland Ave & Archer Ave;Ashland Ave & Archer Ave;2022-09-11 08:07:00;2022-09-11 22:38:00;1
+member;14:31:00;Clark St & Bryn Mawr Ave;Damen Ave & Foster Ave;2022-12-23 17:50:00;2022-12-24 08:21:00;6
+member;14:31:00;Dusable Harbor;Streeter Dr & Grand Ave;2022-06-21 17:35:00;2022-06-22 08:06:00;3
+member;14:30:00;Ashland Ave & Chicago Ave;Ashland Ave & McDowell Ave;2022-06-23 21:42:00;2022-06-24 12:12:00;5
+member;14:30:00;Clinton St & Tilden St;Peoria St & Jackson Blvd;2022-04-04 17:13:00;2022-04-05 07:43:00;2
+member;14:29:00;Financial Pl & Ida B Wells Dr;Michigan Ave & 14th St;2022-11-04 22:01:00;2022-11-05 12:30:00;6
+member;14:29:00;LaSalle St & Illinois St;McClurg Ct & Ohio St;2022-10-09 13:36:00;2022-10-10 04:05:00;1
+member;14:28:00;Wells St & Walton St;;2022-02-08 20:21:00;2022-02-09 10:49:00;3
+member;14:26:00;Clark St & Montrose Ave;Clark St & Montrose Ave;2022-06-25 18:46:00;2022-06-26 09:12:00;7
+member;14:25:00;Morgan St & Lake St;Streeter Dr & Grand Ave;2022-06-21 17:41:00;2022-06-22 08:06:00;3
+member;14:23:00;Wolcott Ave & Polk St;Loomis St & Lexington St;2023-01-19 19:02:00;2023-01-20 09:25:00;5
+member;14:22:00;Sangamon St & Washington Blvd;LaSalle St & Washington St;2022-06-18 17:58:00;2022-06-19 08:20:00;7
+member;14:21:00;Sheffield Ave & Fullerton Ave;Clark St & Wrightwood Ave;2022-11-14 17:50:00;2022-11-15 08:11:00;2
+member;14:18:00;Fairbanks St & Superior St;McClurg Ct & Ohio St;2022-03-10 19:14:00;2022-03-11 09:32:00;5
+member;14:18:00;Racine Ave & Washington Blvd;Base - 2132 W Hubbard;2022-06-12 02:39:00;2022-06-12 16:57:00;1
+member;14:17:00;Sheffield Ave & Wellington Ave;DuSable Lake Shore Dr & North Blvd;2022-09-04 18:08:00;2022-09-05 08:25:00;1
+member;14:15:00;Sedgwick St & North Ave;Sedgwick St & Webster Ave;2022-04-21 21:10:00;2022-04-22 11:25:00;5
+member;14:14:00;Lake Park Ave & 35th St;State St & 35th St;2022-05-19 19:44:00;2022-05-20 09:58:00;5
+member;14:13:00;Broadway & Barry Ave;DuSable Lake Shore Dr & North Blvd;2022-09-04 18:12:00;2022-09-05 08:25:00;1
+member;14:13:00;Clark St & North Ave;Sheridan Rd & Irving Park Rd;2022-05-01 01:34:00;2022-05-01 15:47:00;1
+member;14:12:00;New St & Illinois St;Streeter Dr & Grand Ave;2022-06-21 17:51:00;2022-06-22 08:03:00;3
+member;14:11:00;LaSalle Dr & Huron St;Clark St & Drummond Pl;2022-06-18 18:29:00;2022-06-19 08:40:00;7
+member;14:11:00;University Ave & 57th St;Shore Dr & 55th St;2022-10-29 20:14:00;2022-10-30 10:25:00;7
+member;14:11:00;Wolcott Ave & Polk St;Dearborn Pkwy & Delaware Pl;2022-04-11 17:46:00;2022-04-12 07:57:00;2
+member;14:11:00;Clark St & Newport St;;2022-02-08 20:03:00;2022-02-09 10:14:00;3
+member;14:08:00;Millennium Park;Streeter Dr & Grand Ave;2022-06-21 17:54:00;2022-06-22 08:02:00;3
+member;14:07:00;Morgan St & Lake St;Clinton St & Jackson Blvd;2022-03-01 16:53:00;2022-03-02 07:00:00;3
+member;14:06:00;California Ave & Milwaukee Ave;California Ave & Fletcher St;2022-11-28 18:15:00;2022-11-29 08:21:00;2
+member;14:03:00;Sheffield Ave & Kingsbury St;Bissell St & Armitage Ave;2022-03-22 19:07:00;2022-03-23 09:10:00;3
+member;14:03:00;Sedgwick St & North Ave;Bissell St & Armitage Ave;2022-04-30 17:47:00;2022-05-01 07:50:00;7
+member;14:03:00;Kedzie Ave & Milwaukee Ave;Richmond St & Diversey Ave;2022-05-17 17:58:00;2022-05-18 08:01:00;3
+member;14:02:00;Western Ave & Walton St;Damen Ave & Pierce Ave;2022-03-25 19:10:00;2022-03-26 09:12:00;6
+member;14:00:00;Lakefront Trail & Bryn Mawr Ave;Lakefront Trail & Bryn Mawr Ave;2022-08-07 19:31:00;2022-08-08 09:31:00;1
+member;14:00:00;Halsted St & Roosevelt Rd;Throop St & Taylor St;2022-06-04 01:07:00;2022-06-04 15:07:00;7
+member;14:00:00;Wabash Ave & Wacker Pl;Dusable Harbor;2022-09-12 17:13:00;2022-09-13 07:13:00;2
+member;13:59:00;State St & Chicago Ave;Streeter Dr & Grand Ave;2022-06-21 18:07:00;2022-06-22 08:06:00;3
+member;13:59:00;Wells St & Walton St;DuSable Lake Shore Dr & North Blvd;2022-09-04 18:21:00;2022-09-05 08:20:00;1
+member;13:56:00;Theater on the Lake;DuSable Lake Shore Dr & North Blvd;2022-09-04 18:29:00;2022-09-05 08:25:00;1
+member;13:56:00;Wolcott Ave & Polk St;Loomis St & Lexington St;2022-12-27 21:26:00;2022-12-28 11:22:00;3
+member;13:55:00;Southport Ave & Wellington Ave;Lincoln Ave & Roscoe St*;2022-07-24 19:49:00;2022-07-25 09:44:00;1
+member;13:55:00;Lincoln Ave & Diversey Pkwy;Bissell St & Armitage Ave*;2022-09-09 18:47:00;2022-09-10 08:42:00;6
+member;13:55:00;Western Ave & Division St;Damen Ave & Clybourn Ave;2022-06-01 04:00:00;2022-06-01 17:55:00;4
+member;13:54:00;Ashland Ave & Blackhawk St;Damen Ave & Thomas St (Augusta Blvd);2022-08-18 19:26:00;2022-08-19 09:20:00;5
+member;13:52:00;Sheffield Ave & Fullerton Ave;Clark St & Wrightwood Ave;2022-11-14 18:19:00;2022-11-15 08:11:00;2
+member;13:52:00;Damen Ave & Pierce Ave;Theater on the Lake;2022-05-24 18:39:00;2022-05-25 08:31:00;3
+member;13:51:00;Clark St & Armitage Ave;Clark St & Wrightwood Ave;2022-11-14 18:20:00;2022-11-15 08:11:00;2
+member;13:50:00;Sedgwick St & Webster Ave;Clark St & Wrightwood Ave;2022-11-14 18:21:00;2022-11-15 08:11:00;2
+member;13:50:00;Halsted St & Maxwell St;900 W Harrison St;2022-10-20 20:12:00;2022-10-21 10:02:00;5
+member;13:50:00;Racine Ave & Congress Pkwy;Western Ave & Congress Pkwy;2022-11-24 20:22:00;2022-11-25 10:12:00;5
+member;13:50:00;Lincoln Ave & Sunnyside Ave;Hoyne Ave & Balmoral Ave;2022-06-10 19:50:00;2022-06-11 09:40:00;6
+member;13:49:00;Burling St & Diversey Pkwy;Clarendon Ave & Gordon Ter;2022-04-24 18:15:00;2022-04-25 08:04:00;1
+member;13:49:00;Broadway & Sheridan Rd;Streeter Dr & Grand Ave;2022-03-02 17:53:00;2022-03-03 07:42:00;4
+member;13:48:00;Theater on the Lake;Wabash Ave & 9th St;2022-06-28 17:55:00;2022-06-29 07:43:00;3
+member;13:48:00;Mies van der Rohe Way & Chicago Ave;Michigan Ave & 14th St;2022-08-27 17:43:00;2022-08-28 07:31:00;7
+member;13:47:00;Clinton St & Tilden St;State St & Randolph St;2022-09-18 10:39:00;2022-09-19 00:26:00;1
+member;13:45:00;Canal St & Monroe St;Sheffield Ave & Willow St;2022-11-14 18:46:00;2022-11-15 08:31:00;2
+member;13:43:00;Desplaines St & Kinzie St;Spaulding Ave & Division St;2022-08-30 20:46:00;2022-08-31 10:29:00;3
+member;13:43:00;Ashland Ave & Blackhawk St;Mies van der Rohe Way & Chicago Ave;2022-03-05 17:40:00;2022-03-06 07:23:00;7
+member;13:42:00;Streeter Dr & Grand Ave;DuSable Lake Shore Dr & North Blvd;2022-09-04 18:43:00;2022-09-05 08:25:00;1
+member;13:41:00;Halsted St & Clybourn Ave;Southport Ave & Belmont Ave;2022-10-13 23:16:00;2022-10-14 12:57:00;5
+member;13:41:00;Green St & Madison St;Aberdeen St & Jackson Blvd;2022-04-05 01:24:00;2022-04-05 15:05:00;3
+member;13:40:00;Streeter Dr & Grand Ave;Sedgwick St & Webster Ave;2022-04-21 21:45:00;2022-04-22 11:25:00;5
+member;13:40:00;Rush St & Superior St;Ritchie Ct & Banks St;2022-09-04 18:25:00;2022-09-05 08:05:00;1
+member;13:39:00;Sedgwick St & North Ave;;2022-02-02 20:35:00;2022-02-03 10:14:00;4
+member;13:39:00;California Ave & Division St;Dearborn St & Adams St;2022-11-25 17:39:00;2022-11-26 07:18:00;6
+member;13:39:00;Halsted St & Wrightwood Ave;Clark St & Drummond Pl;2022-06-18 19:00:00;2022-06-19 08:39:00;7
+member;13:34:00;Lakeview Ave & Fullerton Pkwy;Clark St & Drummond Pl;2022-06-18 19:06:00;2022-06-19 08:40:00;7
+member;13:34:00;Stockton Dr & Wrightwood Ave;Rush St & Superior St;2023-01-28 18:26:00;2023-01-29 08:00:00;7
+member;13:32:00;Wentworth Ave & 33rd St;Shields Ave & 31st St;2022-03-15 21:22:00;2022-03-16 10:54:00;3
+member;13:31:00;Desplaines St & Kinzie St;Loomis St & Jackson Blvd;2022-10-31 18:58:00;2022-11-01 08:29:00;2
+member;13:31:00;Clark St & Schiller St;Clark St & Drummond Pl;2022-06-18 19:08:00;2022-06-19 08:39:00;7
+member;13:30:00;DuSable Lake Shore Dr & North Blvd;Sedgwick St & North Ave;2022-08-16 20:35:00;2022-08-17 10:05:00;3
+member;13:29:00;Michigan Ave & Washington St;Racine Ave & Randolph St;2022-06-21 06:35:00;2022-06-21 20:04:00;3
+member;13:28:00;Wells St & Huron St;;2022-02-01 20:50:00;2022-02-02 10:18:00;3
+member;13:26:00;Glenwood Ave & Morse Ave;Clark St & Lunt Ave;2022-12-29 20:53:00;2022-12-30 10:19:00;5
+member;13:25:00;Southport Ave & Wellington Ave;Lincoln Ave & Belmont Ave (Temp);2022-09-23 22:25:00;2022-09-24 11:50:00;6
+member;13:25:00;Dauphin Ave & 103rd St;;2022-05-23 19:22:00;2022-05-24 08:47:00;2
+member;13:24:00;Clark St & Lincoln Ave;Bissell St & Armitage Ave;2022-03-22 19:46:00;2022-03-23 09:10:00;3
+member;13:24:00;Wood St & Milwaukee Ave;Wabash Ave & Grand Ave;2022-08-02 00:19:00;2022-08-02 13:43:00;3
+member;13:22:00;Broadway & Wilson - Truman College Vaccination Site;Clark St & Leland Ave;2022-06-29 20:28:00;2022-06-30 09:50:00;4
+member;13:20:00;Daley Center Plaza;Dearborn St & Adams St;2022-11-25 17:58:00;2022-11-26 07:18:00;6
+member;13:20:00;Fairbanks Ct & Grand Ave;;2022-02-01 20:58:00;2022-02-02 10:18:00;3
+member;13:19:00;Michigan Ave & Oak St;Theater on the Lake;2022-05-24 19:12:00;2022-05-25 08:31:00;3
+member;13:18:00;Lake Park Ave & 56th St;Woodlawn Ave & 55th St;2022-05-10 20:27:00;2022-05-11 09:45:00;3
+member;13:18:00;Prairie Ave & 43rd St;Cottage Grove Ave & 43rd St;2022-03-14 00:12:00;2022-03-14 13:30:00;2
+member;13:18:00;Broadway & Ridge Ave;Broadway & Sheridan Rd;2022-06-13 21:56:00;2022-06-14 11:14:00;2
+member;13:17:00;Calumet Ave & 18th St;Laflin St & Cullerton St;2022-09-09 17:46:00;2022-09-10 07:03:00;6
+member;13:15:00;Kedzie Ave & Milwaukee Ave;Kedzie Ave & Milwaukee Ave;2022-05-10 20:12:00;2022-05-11 09:27:00;3
+member;13:14:00;Racine Ave & Congress Pkwy;Loomis St & Lexington St;2022-06-11 22:21:00;2022-06-12 11:35:00;7
+member;13:13:00;Halsted St & Roosevelt Rd;Clinton St & Jackson Blvd;2022-08-14 18:17:00;2022-08-15 07:30:00;1
+member;13:13:00;Honore St & Division St;Damen Ave & Thomas St (Augusta Blvd);2022-02-20 19:24:00;2022-02-21 08:37:00;1
+member;13:12:00;Southport Ave & Roscoe St;Broadway & Wilson Ave;2022-10-25 18:28:00;2022-10-26 07:40:00;3
+member;13:11:00;Loomis St & Lexington St;Clinton St & Jackson Blvd;2022-08-14 18:19:00;2022-08-15 07:30:00;1
+member;13:11:00;Dusable Harbor;Michigan Ave & 14th St;2022-08-27 18:20:00;2022-08-28 07:31:00;7
+member;13:10:00;Burling St & Diversey Pkwy;Pine Grove Ave & Irving Park Rd;2022-12-26 21:09:00;2022-12-27 10:19:00;2
+member;13:10:00;Stave St & Armitage Ave;Mies van der Rohe Way & Chicago Ave;2022-03-05 18:13:00;2022-03-06 07:23:00;7
+member;13:10:00;Wells St & Elm St;Wells St & Huron St;2022-03-12 18:50:00;2022-03-13 08:00:00;7
+member;13:08:00;Halsted St & Willow St;Clifton Ave & Armitage Ave;2023-01-21 00:00:00;2023-01-21 13:08:00;7
+member;13:08:00;Lake Park Ave & 47th St;Ellis Ave & 55th St;2022-09-21 20:47:00;2022-09-22 09:55:00;4
+member;13:06:00;Ashland Ave & 13th St;Morgan St & Polk St;2022-08-20 18:50:00;2022-08-21 07:56:00;7
+member;13:04:00;Southport Ave & Roscoe St;Halsted St & Roscoe St;2022-11-07 19:11:00;2022-11-08 08:15:00;2
+member;13:04:00;Wells St & Concord Ln;Wells St & Huron St;2022-03-12 18:53:00;2022-03-13 07:57:00;7
+member;13:04:00;Clark St & Grace St;Lincoln Ave & Roscoe St*;2022-04-15 07:05:00;2022-04-15 20:09:00;6
+member;13:03:00;University Library (NU);Benson Ave & Church St;2022-07-06 15:11:00;2022-07-07 04:14:00;4
+member;13:02:00;Wabash Ave & 9th St;Wells St & Polk St;2022-10-13 19:12:00;2022-10-14 08:14:00;5
+member;13:01:00;Adler Planetarium;Adler Planetarium;2022-06-18 18:51:00;2022-06-19 07:52:00;7
+member;13:00:00;Dearborn St & Van Buren St;Federal St & Polk St;2022-02-23 18:54:00;2022-02-24 07:54:00;4
+member;12:58:00;McCormick Place;MLK Jr Dr & 29th St;2022-07-08 22:15:00;2022-07-09 11:13:00;6
+member;12:55:00;Federal St & Polk St;Wabash Ave & Roosevelt Rd;2022-04-15 17:44:00;2022-04-16 06:39:00;6
+member;12:55:00;Kimbark Ave & 53rd St;University Ave & 57th St;2022-06-12 19:56:00;2022-06-13 08:51:00;1
+member;12:54:00;Racine Ave & Washington Blvd;Sangamon St & Washington Blvd;2022-09-05 18:37:00;2022-09-06 07:31:00;2
+member;12:54:00;Burling St & Diversey Pkwy;Sheffield Ave & Willow St;2022-10-04 18:37:00;2022-10-05 07:31:00;3
+member;12:54:00;Michigan Ave & Washington St;Michigan Ave & 8th St;2022-04-13 22:39:00;2022-04-14 11:33:00;4
+member;12:53:00;May St & Taylor St;Western Blvd & 48th Pl;2022-05-08 20:47:00;2022-05-09 09:40:00;1
+member;12:53:00;Sheffield Ave & Willow St;Bissell St & Armitage Ave;2022-06-14 19:07:00;2022-06-15 08:00:00;3
+member;12:52:00;Eckhart Park;Sheffield Ave & Willow St;2022-10-04 18:39:00;2022-10-05 07:31:00;3
+member;12:52:00;Halsted St & 35th St;Ogden Ave & Race Ave;2022-04-12 19:31:00;2022-04-13 08:23:00;3
+member;12:50:00;Larrabee St & Webster Ave;Halsted St & Dickens Ave;2022-11-26 22:18:00;2022-11-27 11:08:00;7
+member;12:49:00;Emerald Ave & 31st St;Halsted St & 35th St;2022-07-05 18:55:00;2022-07-06 07:44:00;3
+member;12:48:00;Elston Ave & Cortland St;Canal St & Madison St;2022-08-02 18:23:00;2022-08-03 07:11:00;3
+member;12:48:00;Clark St & Grace St;Broadway & Sheridan Rd;2022-06-15 23:20:00;2022-06-16 12:08:00;4
+member;12:46:00;California Ave & Milwaukee Ave;Logan Blvd & Elston Ave;2022-07-11 15:44:00;2022-07-12 04:30:00;2
+member;12:44:00;Wilton Ave & Diversey Pkwy*;Sedgwick St & Webster Ave;2022-10-23 18:18:00;2022-10-24 07:02:00;1
+member;12:44:00;Racine Ave & Randolph St;Racine Ave & Randolph St;2022-09-08 19:21:00;2022-09-09 08:05:00;5
+member;12:44:00;State St & Chicago Ave;Ritchie Ct & Banks St;2022-09-04 19:21:00;2022-09-05 08:05:00;1
+member;12:44:00;Kingsbury St & Kinzie St;State St & Kinzie St;2022-09-15 19:59:00;2022-09-16 08:43:00;5
+member;12:44:00;Clark St & Newport St;Clarendon Ave & Gordon Ter;2022-08-09 23:23:00;2022-08-10 12:07:00;3
+member;12:41:00;Winchester Ave & Elston Ave;Sheffield Ave & Willow St;2022-11-14 19:50:00;2022-11-15 08:31:00;2
+member;12:40:00;Clark St & Lincoln Ave;Greenview Ave & Fullerton Ave;2022-07-01 18:46:00;2022-07-02 07:26:00;6
+member;12:39:00;Southport Ave & Irving Park Rd;Sheridan Rd & Argyle St;2022-07-14 18:58:00;2022-07-15 07:37:00;5
+member;12:39:00;Clifton Ave & Armitage Ave;Sheffield Ave & Willow St;2022-10-04 18:52:00;2022-10-05 07:31:00;3
+member;12:37:00;Broadway & Argyle St;Clark St & Winnemac Ave;2022-12-23 19:30:00;2022-12-24 08:07:00;6
+member;12:37:00;Desplaines St & Randolph St;Wells St & Huron St;2022-11-06 19:37:00;2022-11-07 08:14:00;1
+member;12:35:00;Michigan Ave & Pearson St;Clark St & Schiller St;2022-07-30 23:03:00;2022-07-31 11:38:00;7
+member;12:34:00;Desplaines St & Kinzie St;Spaulding Ave & Division St;2022-06-08 20:01:00;2022-06-09 08:35:00;4
+member;12:30:00;Canal St & Adams St;Wood St & Hubbard St;2022-06-23 21:20:00;2022-06-24 09:50:00;5
+member;12:29:00;Columbus Dr & Randolph St;Bissell St & Armitage Ave;2022-06-23 19:47:00;2022-06-24 08:16:00;5
+member;12:28:00;Broadway & Argyle St;Dearborn Pkwy & Delaware Pl;2022-06-21 20:55:00;2022-06-22 09:23:00;3
+member;12:28:00;Southport Ave & Waveland Ave;Western Ave & Leland Ave;2022-07-13 20:05:00;2022-07-14 08:33:00;4
+member;12:27:00;Indiana Ave & Roosevelt Rd;Michigan Ave & 14th St;2022-11-02 20:13:00;2022-11-03 08:40:00;4
+member;12:27:00;Pulaski Rd & Eddy St (Temp);Pulaski Rd & Eddy St (Temp);2022-12-05 18:00:00;2022-12-06 06:27:00;2
+member;12:27:00;Wells St & Huron St;Larrabee St & Kingsbury St;2022-06-25 03:00:00;2022-06-25 15:27:00;7
+member;12:25:00;DuSable Lake Shore Dr & Monroe St;Sangamon St & Washington Blvd;2022-07-25 19:00:00;2022-07-26 07:25:00;2
+member;12:22:00;Morgan St & Lake St*;DuSable Lake Shore Dr & Belmont Ave;2022-09-16 23:58:00;2022-09-17 12:20:00;6
+member;12:21:00;Ellis Ave & 60th St;Kimbark Ave & 53rd St;2022-05-07 20:15:00;2022-05-08 08:36:00;7
+member;12:20:00;Wilton Ave & Diversey Pkwy;Damen Ave & Clybourn Ave;2022-03-16 18:43:00;2022-03-17 07:03:00;4
+member;12:18:00;Broadway & Barry Ave;Broadway & Barry Ave;2022-07-11 18:36:00;2022-07-12 06:54:00;2
+member;12:18:00;Pine Grove Ave & Irving Park Rd;DuSable Lake Shore Dr & Wellington Ave;2022-09-08 06:01:00;2022-09-08 18:19:00;5
+member;12:17:00;Wells St & Elm St;Dearborn St & Erie St;2022-06-19 00:36:00;2022-06-19 12:53:00;1
+member;12:16:00;Damen Ave & Melrose Ave;Southport Ave & Belmont Ave;2022-10-22 21:55:00;2022-10-23 10:11:00;7
+member;12:15:00;Lake Park Ave & 35th St;Calumet Ave & 35th St;2022-06-03 15:57:00;2022-06-04 04:12:00;6
+member;12:12:00;Lincoln Ave & Fullerton Ave;Clark St & Leland Ave;2022-11-01 20:22:00;2022-11-02 08:34:00;3
+member;12:12:00;Mies van der Rohe Way & Chestnut St;Dearborn Pkwy & Delaware Pl;2022-05-19 18:33:00;2022-05-20 06:45:00;5
+member;12:09:00;Kingsbury St & Kinzie St;Wells St & Huron St;2022-03-12 19:48:00;2022-03-13 07:57:00;7
+member;12:07:00;Broadway & Waveland Ave;Ravenswood Ave & Berteau Ave;2022-08-07 20:03:00;2022-08-08 08:10:00;1
+member;12:05:00;Damen Ave & Cortland St;Ravenswood Ave & Lawrence Ave;2022-12-10 19:35:00;2022-12-11 07:40:00;7
+member;12:04:00;Halsted St & Willow St;State St & Kinzie St;2022-09-15 20:38:00;2022-09-16 08:42:00;5
+member;12:02:00;DuSable Lake Shore Dr & Wellington Ave;Lakefront Trail & Wilson Ave;2022-07-21 21:14:00;2022-07-22 09:16:00;5
+member;12:02:00;Clark St & Lincoln Ave;Racine Ave & Randolph St;2022-05-28 19:48:00;2022-05-29 07:50:00;7
+member;12:01:00;Green St & Washington Blvd;Kingsbury St & Erie St;2022-09-17 23:28:00;2022-09-18 11:29:00;7
+member;12:00:00;DuSable Lake Shore Dr & Wellington Ave;Sheffield Ave & Wellington Ave;2023-01-20 19:30:00;2023-01-21 07:30:00;6
+member;12:00:00;Kingsbury St & Kinzie St;Sangamon St & Washington Blvd;2022-09-05 19:30:00;2022-09-06 07:30:00;2
+member;12:00:00;Lake Park Ave & 56th St;Woodlawn Ave & 55th St;2022-10-15 21:44:00;2022-10-16 09:44:00;7
+member;11:57:00;Clark St & Elm St;Clark St & Schiller St;2022-11-07 19:41:00;2022-11-08 07:38:00;2
+member;11:56:00;Ogden Ave & Race Ave;Clinton St & Lake St;2022-11-08 08:27:00;2022-11-08 20:23:00;3
+member;11:56:00;Canal St & Taylor St;Loomis St & Lexington St;2022-11-13 18:45:00;2022-11-14 06:41:00;1
+member;11:54:00;Halsted St & Clybourn Ave;Ogden Ave & Race Ave;2022-04-25 22:09:00;2022-04-26 10:03:00;2
+member;11:54:00;Wells St & Evergreen Ave;Orleans St & Chestnut St (NEXT Apts);2022-04-16 00:52:00;2022-04-16 12:46:00;7
+member;11:54:00;DuSable Lake Shore Dr & Belmont Ave;DuSable Lake Shore Dr & Belmont Ave;2022-06-07 19:19:00;2022-06-08 07:13:00;3
+member;11:53:00;Ashland Ave & Archer Ave;Ashland Ave & Archer Ave;2022-08-14 08:03:00;2022-08-14 19:56:00;1
+member;11:53:00;Orleans St & Chestnut St (NEXT Apts);Orleans St & Chestnut St (NEXT Apts);2022-03-15 18:45:00;2022-03-16 06:38:00;3
+member;11:52:00;Michigan Ave & Lake St;Lakeview Ave & Fullerton Pkwy;2022-10-10 23:28:00;2022-10-11 11:20:00;2
+member;11:51:00;Pine Grove Ave & Waveland Ave;Broadway & Cornelia Ave;2022-08-13 23:28:00;2022-08-14 11:19:00;7
+member;11:50:00;Sheffield Ave & Waveland Ave;Wilton Ave & Belmont Ave;2022-06-23 19:48:00;2022-06-24 07:38:00;5
+member;11:49:00;Federal St & Polk St;;2022-02-02 21:22:00;2022-02-03 09:11:00;4
+member;11:49:00;New St & Illinois St;Shields Ave & 31st St;2022-02-20 00:38:00;2022-02-20 12:27:00;1
+member;11:49:00;Canal St & Monroe St;Clark St & Randolph St;2023-01-30 20:02:00;2023-01-31 07:51:00;2
+member;11:48:00;Greenview Ave & Fullerton Ave;Clark St & Leland Ave;2022-11-01 20:46:00;2022-11-02 08:34:00;3
+member;11:47:00;Desplaines St & Randolph St;Green St & Washington Blvd;2022-09-24 23:50:00;2022-09-25 11:37:00;7
+member;11:47:00;Wells St & Concord Ln;Clark St & Armitage Ave;2022-02-17 21:10:00;2022-02-18 08:57:00;5
+member;11:46:00;Halsted St & Clybourn Ave;Clark St & North Ave;2022-09-28 20:39:00;2022-09-29 08:25:00;4
+member;11:43:00;Clark St & Elm St;Clark St & Elm St;2022-08-09 20:10:00;2022-08-10 07:53:00;3
+member;11:36:00;Kedzie Ave & 21st St;California Ave & 23rd Pl;2022-11-16 00:18:00;2022-11-16 11:54:00;4
+member;11:35:00;Ogden Ave & Race Ave;Paulina St & Flournoy St;2022-05-23 06:24:00;2022-05-23 17:59:00;2
+member;11:35:00;Wells St & Elm St;Dearborn St & Erie St;2022-08-03 21:59:00;2022-08-04 09:34:00;4
+member;11:32:00;Wells St & Evergreen Ave;Cannon Dr & Fullerton Ave;2022-06-19 00:06:00;2022-06-19 11:38:00;1
+member;11:31:00;Honore St & Division St;St. Clair St & Erie St;2022-06-14 19:51:00;2022-06-15 07:22:00;3
+member;11:31:00;Green St & Madison St;Damen Ave & Charleston St;2022-09-03 00:01:00;2022-09-03 11:32:00;7
+member;11:31:00;Michigan Ave & Washington St;;2022-02-13 21:11:00;2022-02-14 08:42:00;1
+member;11:30:00;Ellis Ave & 55th St;Kimbark Ave & 53rd St;2022-09-27 14:07:00;2022-09-28 01:37:00;3
+member;11:30:00;Larrabee St & Division St;Michigan Ave & Lake St;2022-05-11 19:37:00;2022-05-12 07:07:00;4
+member;11:30:00;Field Blvd & South Water St;Clark St & Wrightwood Ave;2022-05-12 22:37:00;2022-05-13 10:07:00;5
+member;11:29:00;Wilton Ave & Belmont Ave;Sheffield Ave & Wellington Ave;2023-01-20 20:01:00;2023-01-21 07:30:00;6
+member;11:28:00;Franklin St & Monroe St;;2022-02-07 20:21:00;2022-02-08 07:49:00;2
+member;11:28:00;Clark St & Chicago Ave;Clinton St & Jackson Blvd;2022-07-06 22:23:00;2022-07-07 09:51:00;4
+member;11:27:00;Buckingham Fountain;DuSable Lake Shore Dr & North Blvd;2022-09-21 22:31:00;2022-09-22 09:58:00;4
+member;11:26:00;Buckingham Fountain;DuSable Lake Shore Dr & North Blvd;2022-09-21 22:31:00;2022-09-22 09:57:00;4
+member;11:26:00;Ellis Ave & 60th St;Harper Ave & 59th St;2022-05-25 20:48:00;2022-05-26 08:14:00;4
+member;11:26:00;Clark St & Elm St;Sedgwick St & Webster Ave;2022-10-23 19:36:00;2022-10-24 07:02:00;1
+member;11:24:00;Kingsbury St & Erie St;Orleans St & Elm St;2022-09-22 00:31:00;2022-09-22 11:55:00;5
+member;11:21:00;Clinton St & Washington Blvd;Leavitt St & Chicago Ave;2022-10-25 19:58:00;2022-10-26 07:19:00;3
+member;11:20:00;Halsted St & Clybourn Ave;Mies van der Rohe Way & Chicago Ave;2023-01-18 23:09:00;2023-01-19 10:29:00;4
+member;11:19:00;Clark St & Newport St;Lincoln Ave & Roscoe St*;2022-04-15 08:50:00;2022-04-15 20:09:00;6
+member;11:18:00;State St & Randolph St;Wabash Ave & Grand Ave;2022-10-27 22:20:00;2022-10-28 09:38:00;5
+member;11:18:00;Clinton St & Madison St;Racine Ave & Washington Blvd;2022-08-24 19:27:00;2022-08-25 06:45:00;4
+member;11:17:00;Franklin St & Jackson Blvd;Fairbanks Ct & Grand Ave;2023-01-25 19:55:00;2023-01-26 07:12:00;4
+member;11:17:00;Sheridan Rd & Montrose Ave;California Ave & Milwaukee Ave;2022-09-26 19:45:00;2022-09-27 07:02:00;2
+member;11:15:00;Kingsbury St & Erie St;Peoria St & Jackson Blvd;2022-10-20 12:50:00;2022-10-21 00:05:00;5
+member;11:14:00;Southport Ave & Irving Park Rd;Sheridan Rd & Montrose Ave;2022-07-24 13:10:00;2022-07-25 00:24:00;1
+member;11:14:00;Theater on the Lake;Larrabee St & Armitage Ave;2022-08-16 20:47:00;2022-08-17 08:01:00;3
+member;11:12:00;Desplaines St & Kinzie St;Wood St & Hubbard St;2022-07-18 07:32:00;2022-07-18 18:44:00;2
+member;11:12:00;Throop St & Taylor St;Paulina St & Flournoy St;2022-10-07 20:09:00;2022-10-08 07:21:00;6
+member;11:11:00;California Ave & Altgeld St;Loomis St & Jackson Blvd;2022-10-31 21:18:00;2022-11-01 08:29:00;2
+member;11:10:00;Morgan St & Lake St*;Wood St & Hubbard St;2022-06-18 22:08:00;2022-06-19 09:18:00;7
+member;11:10:00;Michigan Ave & Oak St;Michigan Ave & Oak St;2022-11-21 08:36:00;2022-11-21 19:46:00;2
+member;11:08:00;Leavitt St & Belmont Ave;Lincoln Ave & Roscoe St*;2022-08-04 07:00:00;2022-08-04 18:08:00;5
+member;11:06:00;Racine Ave & Washington Blvd;Halsted St & 18th St;2022-06-16 23:11:00;2022-06-17 10:17:00;5
+member;11:05:00;Wells St & 19th St;Indiana Ave & 26th St;2022-08-25 20:27:00;2022-08-26 07:32:00;5
+member;11:05:00;Lincoln Ave & Diversey Pkwy;Stockton Dr & Wrightwood Ave;2022-05-29 02:09:00;2022-05-29 13:14:00;1
+member;11:03:00;Sheridan Rd & Irving Park Rd;Sheridan Rd & Montrose Ave;2022-02-17 19:28:00;2022-02-18 06:31:00;5
+member;11:03:00;Bissell St & Armitage Ave*;Larrabee St & Armitage Ave;2022-08-16 20:58:00;2022-08-17 08:01:00;3
+member;11:01:00;LaSalle Dr & Huron St;LaSalle Dr & Huron St;2022-08-29 22:17:00;2022-08-30 09:18:00;2
+member;11:01:00;Wilton Ave & Belmont Ave;Paulina Ave & North Ave;2022-09-12 12:10:00;2022-09-12 23:11:00;2
+member;11:00:00;Clark St & Lincoln Ave;Halsted St & Willow St;2022-11-16 20:10:00;2022-11-17 07:10:00;4
+member;10:58:00;Millennium Park;Ritchie Ct & Banks St;2022-07-09 21:05:00;2022-07-10 08:03:00;7
+member;10:56:00;Southport Ave & Roscoe St;Clark St & Newport St;2022-09-01 08:25:00;2022-09-01 19:21:00;5
+member;10:55:00;Throop St & Taylor St;Throop St & Taylor St;2022-09-02 01:05:00;2022-09-02 12:00:00;6
+member;10:52:00;Broadway & Argyle St;Ravenswood Ave & Lawrence Ave;2022-10-09 20:36:00;2022-10-10 07:28:00;1
+member;10:50:00;Burling St & Diversey Pkwy;DuSable Lake Shore Dr & Belmont Ave;2022-08-31 06:31:00;2022-08-31 17:21:00;4
+member;10:50:00;LaSalle St & Washington St;State St & Chicago Ave;2022-07-27 21:19:00;2022-07-28 08:09:00;4
+member;10:48:00;Morgan St & Lake St*;Michigan Ave & Lake St;2022-05-11 20:19:00;2022-05-12 07:07:00;4
+member;10:47:00;Kedzie Ave & Milwaukee Ave;St. Louis Ave & Fullerton Ave;2022-03-27 23:55:00;2022-03-28 10:42:00;1
+member;10:44:00;Wells St & Elm St;Lakeview Ave & Fullerton Pkwy;2022-10-21 20:39:00;2022-10-22 07:23:00;6
+member;10:44:00;Wells St & Concord Ln;Sedgwick St & Webster Ave;2022-10-23 20:18:00;2022-10-24 07:02:00;1
+member;10:43:00;University Ave & 57th St;Harper Ave & 59th St;2022-04-16 21:20:00;2022-04-17 08:03:00;7
+member;10:43:00;Clark St & Columbia Ave;Broadway & Wilson - Truman College Vaccination Site;2022-06-22 20:13:00;2022-06-23 06:56:00;4
+member;10:42:00;Bissell St & Armitage Ave*;Halsted St & Wrightwood Ave;2022-07-24 23:12:00;2022-07-25 09:54:00;1
+member;10:41:00;Western Ave & Howard St;Ridge Blvd & Howard St;2023-01-11 13:14:00;2023-01-11 23:55:00;4
+member;10:38:00;Clark St & Armitage Ave;Ritchie Ct & Banks St;2022-07-16 20:36:00;2022-07-17 07:14:00;7
+member;10:34:00;Wells St & Walton St;Damen Ave & Cortland St;2022-06-20 20:39:00;2022-06-21 07:13:00;2
+member;10:33:00;Kingsbury St & Erie St;Racine Ave & 15th St;2022-10-10 22:24:00;2022-10-11 08:57:00;2
+member;10:32:00;Cornell Ave & Hyde Park Blvd;Ellis Ave & 53rd St;2023-01-16 21:50:00;2023-01-17 08:22:00;2
+member;10:31:00;Clark St & Schiller St;Oakley Ave & Irving Park Rd;2022-06-01 22:31:00;2022-06-02 09:02:00;4
+member;10:30:00;Damen Ave & Charleston St;Clifton Ave & Armitage Ave;2022-07-24 01:35:00;2022-07-24 12:05:00;1
+member;10:27:00;Ellis Ave & 60th St;Woodlawn Ave & 55th St;2022-04-14 23:27:00;2022-04-15 09:54:00;5
+member;10:27:00;Clark St & Lincoln Ave;Broadway & Barry Ave;2022-04-21 22:05:00;2022-04-22 08:32:00;5
+member;10:27:00;Clark St & Leland Ave;Larrabee St & North Ave;2022-08-11 07:42:00;2022-08-11 18:09:00;5
+member;10:26:00;Wells St & Polk St;Clark St & Schiller St;2022-09-29 08:24:00;2022-09-29 18:50:00;5
+member;10:25:00;Kingsbury St & Kinzie St;Dearborn St & Monroe St;2022-07-27 08:19:00;2022-07-27 18:44:00;4
+member;10:25:00;Broadway & Ridge Ave;Clark St & Bryn Mawr Ave;2023-01-26 22:51:00;2023-01-27 09:16:00;5
+member;10:24:00;Sedgwick St & Webster Ave;Damen Ave & Pierce Ave;2022-03-25 22:48:00;2022-03-26 09:12:00;6
+member;10:23:00;Lakeview Ave & Fullerton Pkwy;Broadway & Barry Ave;2022-03-21 07:32:00;2022-03-21 17:55:00;2
+member;10:23:00;Calumet Ave & 51st St;MLK Jr Dr & 56th St;2022-10-23 21:02:00;2022-10-24 07:25:00;1
+member;10:23:00;May St & Taylor St;May St & Taylor St;2022-10-29 10:20:00;2022-10-29 20:43:00;7
+member;10:22:00;Wentworth Ave & 35th St;Franklin St & Jackson Blvd;2022-08-02 21:57:00;2022-08-03 08:19:00;3
+member;10:22:00;Clinton St & Lake St;Kingsbury St & Kinzie St;2022-04-10 21:43:00;2022-04-11 08:05:00;1
+member;10:22:00;Kingsbury St & Kinzie St;Dearborn St & Erie St;2022-07-12 07:19:00;2022-07-12 17:41:00;3
+member;10:21:00;Ellis Ave & 58th St;Stony Island Ave & 71st St;2022-07-04 11:24:00;2022-07-04 21:45:00;2
+member;10:21:00;Wells St & Concord Ln;Lakeview Ave & Fullerton Pkwy;2022-05-01 21:26:00;2022-05-02 07:47:00;1
+member;10:20:00;Dearborn St & Van Buren St;Dearborn St & Adams St;2022-10-26 05:54:00;2022-10-26 16:14:00;4
+member;10:18:00;California Ave & Milwaukee Ave;St. Louis Ave & Fullerton Ave;2022-03-25 23:44:00;2022-03-26 10:02:00;6
+member;10:17:00;Clark St & Armitage Ave;State St & Chicago Ave;2022-04-10 10:19:00;2022-04-10 20:36:00;1
+member;10:16:00;DuSable Lake Shore Dr & Wellington Ave;Ravenswood Ave & Berteau Ave;2022-10-08 15:46:00;2022-10-09 02:02:00;7
+member;10:15:00;Theater on the Lake;Sheffield Ave & Webster Ave;2022-08-31 21:34:00;2022-09-01 07:49:00;4
+member;10:15:00;Theater on the Lake;Sheffield Ave & Webster Ave;2022-08-31 21:34:00;2022-09-01 07:49:00;4
+member;10:15:00;State St & 33rd St;Indiana Ave & 26th St;2022-08-25 21:17:00;2022-08-26 07:32:00;5
+member;10:14:00;Wells St & Huron St;;2022-06-07 17:08:00;2022-06-08 03:22:00;3
+member;10:14:00;Green St & Randolph St*;Wells St & Huron St;2022-10-18 22:43:00;2022-10-19 08:57:00;3
+member;10:13:00;McClurg Ct & Erie St;63rd St Beach;2022-06-06 08:30:00;2022-06-06 18:43:00;2
+member;10:12:00;University Ave & 57th St;Ellis Ave & 60th St;2022-11-01 23:14:00;2022-11-02 09:26:00;3
+member;10:11:00;Morgan St & Lake St*;Wells St & Huron St;2022-10-18 22:47:00;2022-10-19 08:58:00;3
+member;10:10:00;Indiana Ave & Roosevelt Rd;900 W Harrison St;2022-09-08 21:25:00;2022-09-09 07:35:00;5
+member;10:09:00;Clark St & Newport St;Damen Ave & Wellington Ave;2022-05-07 01:10:00;2022-05-07 11:19:00;7
+member;10:07:00;Halsted St & Dickens Ave;Halsted St & Dickens Ave;2022-11-07 08:19:00;2022-11-07 18:26:00;2
+member;10:06:00;St. Clair St & Erie St;;2022-02-07 21:43:00;2022-02-08 07:49:00;2
+member;10:06:00;LaSalle St & Washington St;LaSalle St & Washington St;2022-06-27 15:47:00;2022-06-28 01:53:00;2
+member;10:05:00;Ashland Ave & Wellington Ave;Lincoln Ave & Belmont Ave (Temp);2022-10-11 08:57:00;2022-10-11 19:02:00;3
+member;10:05:00;Columbus Dr & Randolph St;State St & Randolph St;2022-10-19 08:47:00;2022-10-19 18:52:00;4
+member;10:04:00;Greenview Ave & Diversey Pkwy;Wilton Ave & Diversey Pkwy;2022-07-18 07:58:00;2022-07-18 18:02:00;2
+member;10:04:00;East End Ave & 87th St;Cottage Grove Ave & 47th St;2022-08-15 09:31:00;2022-08-15 19:35:00;2
+member;10:03:00;Eastlake Ter & Rogers Ave;Clark St & Lunt Ave;2022-05-12 08:21:00;2022-05-12 18:24:00;5
+member;10:03:00;Sheffield Ave & Fullerton Ave;Lincoln Ave & Belmont Ave (Temp);2022-11-09 21:40:00;2022-11-10 07:43:00;4
+member;10:02:00;Clark St & Lincoln Ave;Michigan Ave & Lake St;2022-05-11 21:05:00;2022-05-12 07:07:00;4
+member;10:01:00;Clinton St & Madison St;Clinton St & Lake St;2022-08-09 21:23:00;2022-08-10 07:24:00;3
+member;10:00:00;Southport Ave & Belmont Ave;State St & Chicago Ave;2022-06-18 21:44:00;2022-06-19 07:44:00;7
+member;09:59:00;MLK Jr Dr & 47th St;Cottage Grove Ave & 51st St;2022-05-11 15:01:00;2022-05-12 01:00:00;4
+member;09:59:00;Spaulding Ave & Division St;Mies van der Rohe Way & Chestnut St;2022-06-26 21:16:00;2022-06-27 07:15:00;1
+member;09:58:00;California Ave & Milwaukee Ave;Kedzie Ave & Milwaukee Ave;2022-08-07 02:46:00;2022-08-07 12:44:00;1
+member;09:58:00;Ogden Ave & Chicago Ave;Ogden Ave & Chicago Ave;2022-11-07 12:35:00;2022-11-07 22:33:00;2
+member;09:58:00;Sheridan Rd & Buena Ave;Sheridan Rd & Montrose Ave;2022-07-24 14:06:00;2022-07-25 00:04:00;1
+member;09:58:00;Wells St & Hubbard St;Broadway & Cornelia Ave;2022-03-31 08:25:00;2022-03-31 18:23:00;5
+member;09:55:00;Wells St & Hubbard St;Green St & Randolph St*;2022-10-08 21:59:00;2022-10-09 07:54:00;7
+member;09:55:00;Dusable Harbor;State St & Chicago Ave;2022-07-27 22:10:00;2022-07-28 08:05:00;4
+member;09:50:00;Halsted St & Dickens Ave;Sheffield Ave & Webster Ave;2022-08-31 21:59:00;2022-09-01 07:49:00;4
+member;09:49:00;Ellis Ave & 60th St;Ellis Ave & 60th St;2022-04-30 16:13:00;2022-05-01 02:02:00;7
+member;09:48:00;Peoria St & Jackson Blvd;Michigan Ave & Madison St;2022-10-23 00:23:00;2022-10-23 10:11:00;1
+member;09:48:00;Wabash Ave & Roosevelt Rd;Franklin St & Lake St;2022-08-01 07:56:00;2022-08-01 17:44:00;2
+member;09:47:00;Larrabee St & Webster Ave;Wells St & Elm St;2022-08-24 22:04:00;2022-08-25 07:51:00;4
+member;09:45:00;Damen Ave & Thomas St (Augusta Blvd);Ritchie Ct & Banks St;2022-07-16 21:27:00;2022-07-17 07:12:00;7
+member;09:45:00;Canal St & Taylor St;Franklin St & Adams St (Temp);2022-09-06 08:30:00;2022-09-06 18:15:00;3
+member;09:44:00;Calumet Ave & 33rd St;Halsted St & 35th St;2022-10-07 05:50:00;2022-10-07 15:34:00;6
+member;09:42:00;Sheridan Rd & Irving Park Rd;Sheridan Rd & Argyle St;2022-08-20 15:22:00;2022-08-21 01:04:00;7
+member;09:42:00;Oakley Ave & Irving Park Rd;Elston Ave & Cortland St;2022-07-29 00:19:00;2022-07-29 10:01:00;6
+member;09:40:00;Clark St & Wrightwood Ave;Ritchie Ct & Banks St;2022-07-16 21:34:00;2022-07-17 07:14:00;7
+member;09:40:00;Desplaines St & Jackson Blvd;Clark St & Drummond Pl;2022-06-23 21:23:00;2022-06-24 07:03:00;5
+member;09:39:00;Clinton St & Lake St;Kedzie Ave & Palmer Ct;2022-11-02 21:48:00;2022-11-03 07:27:00;4
+member;09:39:00;Fairbanks Ct & Grand Ave;Dearborn Pkwy & Delaware Pl;2022-04-04 11:32:00;2022-04-04 21:11:00;2
+member;09:38:00;Kingsbury St & Kinzie St;;2022-02-07 22:13:00;2022-02-08 07:51:00;2
+member;09:38:00;Clark St & Wrightwood Ave;Ritchie Ct & Banks St;2022-07-16 21:34:00;2022-07-17 07:12:00;7
+member;09:38:00;Halsted St & Clybourn Ave;Michigan Ave & Oak St;2022-09-13 22:51:00;2022-09-14 08:29:00;3
+member;09:34:00;Halsted St & Clybourn Ave;Clark St & North Ave;2022-09-28 22:51:00;2022-09-29 08:25:00;4
+member;09:33:00;Wabash Ave & Grand Ave;Halsted St & Roscoe St;2022-11-07 22:42:00;2022-11-08 08:15:00;2
+member;09:33:00;State St & Harrison St;Wabash Ave & Roosevelt Rd;2022-07-24 00:39:00;2022-07-24 10:12:00;1
+member;09:33:00;Ellis Ave & 55th St;Ellis Ave & 58th St;2022-05-01 23:05:00;2022-05-02 08:38:00;1
+member;09:33:00;Michigan Ave & 8th St;Orleans St & Hubbard St;2022-06-08 07:45:00;2022-06-08 17:18:00;4
+member;09:31:00;Clark St & Newport St;Mies van der Rohe Way & Chestnut St;2022-10-27 21:54:00;2022-10-28 07:25:00;5
+member;09:30:00;Washtenaw Ave & Ogden Ave;Western Ave & Congress Pkwy;2022-08-16 07:56:00;2022-08-16 17:26:00;3
+member;09:30:00;Western Ave & Fillmore St;Leavitt St & Chicago Ave;2022-10-25 21:49:00;2022-10-26 07:19:00;3
+member;09:29:00;Halsted St & Clybourn Ave;Desplaines St & Randolph St;2023-01-06 08:22:00;2023-01-06 17:51:00;6
+member;09:26:00;Damen Ave & Foster Ave;Wolcott (Ravenswood) Ave & Montrose Ave;2022-05-03 22:37:00;2022-05-04 08:03:00;3
+member;09:26:00;Damen Ave & Pierce Ave;Western Ave & Winnebago Ave;2022-05-13 03:36:00;2022-05-13 13:02:00;6
+member;09:26:00;University Ave & 57th St;Ellis Ave & 58th St;2022-05-01 23:12:00;2022-05-02 08:38:00;1
+member;09:25:00;Kildare Ave & Montrose Ave;Drake Ave & Montrose Ave;2022-09-02 07:59:00;2022-09-02 17:24:00;6
+member;09:25:00;Wells St & Elm St;Ogden Ave & Chicago Ave;2022-11-13 22:28:00;2022-11-14 07:53:00;1
+member;09:25:00;Calumet Ave & 51st St;Ellis Ave & 53rd St;2022-03-09 23:38:00;2022-03-10 09:03:00;4
+member;09:25:00;Broadway & Sheridan Rd;State St & Randolph St;2022-12-01 13:39:00;2022-12-01 23:04:00;5
+member;09:24:00;Greenview Ave & Fullerton Ave;Sedgwick St & Webster Ave;2022-07-18 02:19:00;2022-07-18 11:43:00;2
+member;09:23:00;Clark St & Schiller St;Oakley Ave & Irving Park Rd;2022-06-02 22:21:00;2022-06-03 07:44:00;5
+member;09:23:00;Desplaines St & Kinzie St;Sheffield Ave & Willow St;2022-11-11 23:03:00;2022-11-12 08:26:00;6
+member;09:22:00;Sheridan Rd & Lawrence Ave;McClurg Ct & Erie St;2022-06-15 23:31:00;2022-06-16 08:53:00;4
+member;09:22:00;Aberdeen St & Jackson Blvd;Cornell Ave & Hyde Park Blvd;2023-01-17 08:11:00;2023-01-17 17:33:00;3
+member;09:22:00;Clark St & Elm St;Sedgwick St & Webster Ave;2022-10-23 21:40:00;2022-10-24 07:02:00;1
+member;09:21:00;Wabash Ave & Grand Ave;Clark St & Winnemac Ave;2022-10-05 19:09:00;2022-10-06 04:30:00;4
+member;09:20:00;Wells St & Concord Ln;Sedgwick St & North Ave;2022-02-26 02:51:00;2022-02-26 12:11:00;7
+member;09:20:00;Clark St & Wrightwood Ave;DuSable Lake Shore Dr & Diversey Pkwy;2022-06-29 22:05:00;2022-06-30 07:25:00;4
+member;09:19:00;Larrabee St & Webster Ave;Wilton Ave & Belmont Ave;2022-06-12 23:06:00;2022-06-13 08:25:00;1
+member;09:19:00;Lake Park Ave & 47th St;Greenwood Ave & 47th St;2022-05-09 01:00:00;2022-05-09 10:19:00;2
+member;09:18:00;Sheffield Ave & Wellington Ave;Halsted St & Wrightwood Ave;2022-12-10 01:08:00;2022-12-10 10:26:00;7
+member;09:17:00;University Ave & 57th St;Ellis Ave & 58th St;2022-05-01 23:21:00;2022-05-02 08:38:00;1
+member;09:11:00;Racine Ave & Fullerton Ave;State St & Kinzie St;2022-09-15 23:31:00;2022-09-16 08:42:00;5
+member;09:11:00;Leavitt St & North Ave;Leavitt St & Division St;2022-05-17 06:51:00;2022-05-17 16:02:00;3
+member;09:10:00;Morgan Ave & 14th Pl;Wabash Ave & 16th St;2022-08-16 08:27:00;2022-08-16 17:37:00;3
+member;09:09:00;Southport Ave & Wrightwood Ave;Damen Ave & Pierce Ave;2022-11-19 21:55:00;2022-11-20 07:04:00;7
+member;09:07:00;Millennium Park;Michigan Ave & Lake St;2022-09-18 00:11:00;2022-09-18 09:18:00;1
+member;09:06:00;Clinton St & Jackson Blvd;St. Clair St & Erie St;2022-11-21 07:11:00;2022-11-21 16:17:00;2
+member;09:05:00;Racine Ave & Wrightwood Ave;Wood St & Hubbard St;2022-07-07 08:33:00;2022-07-07 17:38:00;5
+member;09:05:00;Wolcott Ave & Polk St;Racine Ave & 18th St;2022-10-19 23:52:00;2022-10-20 08:57:00;4
+member;09:04:00;Wells St & Elm St;Orleans St & Merchandise Mart Plaza;2022-05-15 00:12:00;2022-05-15 09:16:00;1
+member;09:03:00;Lakeview Ave & Fullerton Pkwy;Lakeview Ave & Fullerton Pkwy;2022-09-13 07:32:00;2022-09-13 16:35:00;3
+member;09:02:00;Sheffield Ave & Willow St;Sheffield Ave & Webster Ave;2022-08-31 22:47:00;2022-09-01 07:49:00;4
+member;09:01:00;Laflin St & Cullerton St;Halsted St & Roosevelt Rd;2022-07-29 12:55:00;2022-07-29 21:56:00;6
+member;09:01:00;State St & Chicago Ave;Green St & Randolph St*;2022-09-22 08:01:00;2022-09-22 17:02:00;5
+member;09:00:00;New St & Illinois St;Clark St & Randolph St;2022-10-20 22:24:00;2022-10-21 07:24:00;5
+member;08:59:00;Federal St & Polk St;Franklin St & Jackson Blvd;2022-09-20 07:54:00;2022-09-20 16:53:00;3
+member;08:56:00;Sedgwick St & Webster Ave;Sedgwick St & Webster Ave;2022-12-30 02:04:00;2022-12-30 11:00:00;6
+member;08:56:00;Kingsbury St & Kinzie St;Sangamon St & Washington Blvd;2022-09-05 22:34:00;2022-09-06 07:30:00;2
+member;08:56:00;Sheridan Rd & Buena Ave;Halsted St & Roscoe St;2022-11-07 23:19:00;2022-11-08 08:15:00;2
+member;08:55:00;Franklin St & Illinois St;Rush St & Superior St;2022-12-12 08:33:00;2022-12-12 17:28:00;2
+member;08:55:00;Wells St & Hubbard St;Wells St & Concord Ln;2022-06-15 08:52:00;2022-06-15 17:47:00;4
+member;08:54:00;Columbus Dr & Randolph St;Peoria St & Jackson Blvd;2022-09-08 22:37:00;2022-09-09 07:31:00;5
+member;08:54:00;Halsted St & Willow St;Halsted St & Dickens Ave;2022-04-23 01:15:00;2022-04-23 10:09:00;7
+member;08:53:00;Loomis St & Lexington St;Clinton St & Jackson Blvd;2023-01-10 08:38:00;2023-01-10 17:31:00;3
+member;08:53:00;Artesian Ave & Hubbard St;Kedzie Ave & Chicago Ave;2022-07-14 08:30:00;2022-07-14 17:23:00;5
+member;08:53:00;Halsted St & Roscoe St;Sheridan Rd & Montrose Ave;2022-07-24 15:31:00;2022-07-25 00:24:00;1
+member;08:52:00;Broadway & Cornelia Ave;Sheridan Rd & Montrose Ave;2022-06-24 03:14:00;2022-06-24 12:06:00;6
+member;08:52:00;Halsted St & 18th St;Desplaines St & Kinzie St;2022-08-22 09:40:00;2022-08-22 18:32:00;2
+member;08:50:00;Damen Ave & Cullerton St;Western Ave & 21st St;2022-05-15 00:23:00;2022-05-15 09:13:00;1
+member;08:50:00;Sheffield Ave & Kingsbury St;Clark St & Schiller St;2022-04-25 00:13:00;2022-04-25 09:03:00;2
+member;08:49:00;Wells St & Institute Pl;Orleans St & Elm St;2023-01-14 12:32:00;2023-01-14 21:21:00;7
+member;08:49:00;Adler Planetarium;Buckingham Fountain (Temp);2022-07-07 21:53:00;2022-07-08 06:42:00;5
+member;08:49:00;Lincoln Ave & Belle Plaine Ave;Broadway & Argyle St;2022-06-12 02:47:00;2022-06-12 11:36:00;1
+member;08:48:00;Adler Planetarium;Buckingham Fountain (Temp);2022-07-07 21:54:00;2022-07-08 06:42:00;5
+member;08:48:00;Clark St & Newport St;Lincoln Ave & Fullerton Ave;2022-07-14 21:49:00;2022-07-15 06:37:00;5
+member;08:47:00;Wells St & Elm St;Montrose Harbor;2022-07-29 06:23:00;2022-07-29 15:10:00;6
+member;08:46:00;California Ave & North Ave;Kedzie Ave & Milwaukee Ave;2022-06-22 14:44:00;2022-06-22 23:30:00;4
+member;08:46:00;Clark St & Newport St;Clark St & Drummond Pl;2022-06-23 22:17:00;2022-06-24 07:03:00;5
+member;08:45:00;Clark St & Wellington Ave;Clybourn Ave & Division St;2022-06-11 01:54:00;2022-06-11 10:39:00;7
+member;08:45:00;State St & Randolph St;Desplaines St & Randolph St;2022-10-09 22:05:00;2022-10-10 06:50:00;1
+member;08:45:00;Clark St & Grace St;Southport Ave & Irving Park Rd;2022-10-14 07:35:00;2022-10-14 16:20:00;6
+member;08:43:00;Broadway & Barry Ave;DuSable Lake Shore Dr & Belmont Ave;2022-05-08 23:26:00;2022-05-09 08:09:00;1
+member;08:42:00;Michigan Ave & Washington St;Michigan Ave & Washington St;2022-09-26 05:35:00;2022-09-26 14:17:00;2
+member;08:41:00;Clark St & Lincoln Ave;Ritchie Ct & Banks St;2022-09-04 23:24:00;2022-09-05 08:05:00;1
+member;08:40:00;Milwaukee Ave & Wabansia Ave;Ritchie Ct & Banks St;2022-07-16 22:32:00;2022-07-17 07:12:00;7
+member;08:39:00;Clark St & Chicago Ave;State St & Pearson St;2022-07-16 01:23:00;2022-07-16 10:02:00;7
+member;08:39:00;Kildare Ave & Montrose Ave;Kildare Ave & Montrose Ave;2022-05-25 08:01:00;2022-05-25 16:40:00;4
+member;08:38:00;Dearborn St & Erie St;Ogden Ave & Race Ave;2022-05-29 00:19:00;2022-05-29 08:57:00;1
+member;08:38:00;Clark St & Winnemac Ave;Broadway & Waveland Ave;2022-06-22 23:16:00;2022-06-23 07:54:00;4
+member;08:37:00;Western Ave & Leland Ave;Budlong Woods Library;2022-06-19 00:05:00;2022-06-19 08:42:00;1
+member;08:37:00;Larrabee St & Webster Ave;Clark St & Drummond Pl;2022-06-23 22:26:00;2022-06-24 07:03:00;5
+member;08:37:00;Broadway & Granville Ave;;2022-02-13 09:16:00;2022-02-13 17:53:00;1
+member;08:36:00;State St & Chicago Ave;Wells St & Huron St;2022-03-12 23:21:00;2022-03-13 07:57:00;7
+member;08:36:00;Dearborn St & Adams St;Sheffield Ave & Waveland Ave;2022-07-14 09:24:00;2022-07-14 18:00:00;5
+member;08:36:00;Broadway & Barry Ave;DuSable Lake Shore Dr & Wellington Ave;2022-05-30 16:10:00;2022-05-31 00:46:00;2
+member;08:36:00;Clark St & Elm St;Racine Ave & Fullerton Ave;2022-09-04 03:24:00;2022-09-04 12:00:00;1
+member;08:36:00;Clark St & Lincoln Ave;DuSable Lake Shore Dr & Diversey Pkwy;2022-06-07 23:08:00;2022-06-08 07:44:00;3
+member;08:35:00;Sangamon St & Washington Blvd;Dearborn St & Monroe St;2022-05-17 07:58:00;2022-05-17 16:33:00;3
+member;08:33:00;Washtenaw Ave & Ogden Ave;;2022-05-15 00:05:00;2022-05-15 08:38:00;1
+member;08:30:00;Milwaukee Ave & Grand Ave;Ashland Ave & Grand Ave;2022-05-10 22:25:00;2022-05-11 06:55:00;3
+member;08:29:00;Rush St & Superior St;St. Clair St & Erie St;2022-08-31 08:19:00;2022-08-31 16:48:00;4
+member;08:28:00;Milwaukee Ave & Grand Ave;Michigan Ave & Madison St;2022-11-21 12:08:00;2022-11-21 20:36:00;2
+member;08:25:00;Stetson Ave & South Water St;Franklin St & Monroe St;2022-09-15 07:59:00;2022-09-15 16:24:00;5
+member;08:25:00;Desplaines St & Jackson Blvd;Franklin St & Monroe St;2022-03-15 09:34:00;2022-03-15 17:59:00;3
+member;08:24:00;Canal St & Madison St;Mies van der Rohe Way & Chicago Ave;2022-10-20 06:48:00;2022-10-20 15:12:00;5
+member;08:23:00;Clark St & Grace St;Stockton Dr & Wrightwood Ave;2022-06-13 23:28:00;2022-06-14 07:51:00;2
+member;08:22:00;Rush St & Cedar St;Clark St & Drummond Pl;2022-06-23 22:41:00;2022-06-24 07:03:00;5
+member;08:20:00;Clark St & Bryn Mawr Ave;Kedzie Ave & Milwaukee Ave;2022-08-06 08:55:00;2022-08-06 17:15:00;7
+member;08:20:00;Damen Ave & Madison St;Columbus Dr & Randolph St;2023-01-07 22:33:00;2023-01-08 06:53:00;7
+member;08:19:00;Canal St & Madison St;Michigan Ave & Ida B Wells Dr;2023-01-10 11:48:00;2023-01-10 20:07:00;3
+member;08:18:00;Drake Ave & Montrose Ave;Wilton Ave & Belmont Ave;2022-05-21 22:39:00;2022-05-22 06:57:00;7
+member;08:18:00;Wells St & Evergreen Ave;Wilton Ave & Belmont Ave;2022-05-21 22:39:00;2022-05-22 06:57:00;7
+member;08:17:00;Clark St & Chicago Ave;Fairbanks Ct & Grand Ave;2022-04-22 00:02:00;2022-04-22 08:19:00;6
+member;08:15:00;Avondale Ave & Irving Park Rd;Avers Ave & Belmont Ave;2023-01-11 21:59:00;2023-01-12 06:14:00;4
+member;08:13:00;Monticello Ave & Irving Park Rd;Monticello Ave & Irving Park Rd;2022-09-25 13:42:00;2022-09-25 21:55:00;1
+member;08:13:00;Larrabee St & Webster Ave;Wells St & Concord Ln;2022-11-08 09:18:00;2022-11-08 17:31:00;3
+member;08:11:00;Shields Ave & 31st St;Shields Ave & 31st St;2022-02-18 15:37:00;2022-02-18 23:48:00;6
+member;08:10:00;Ravenswood Ave & Berteau Ave;Ravenswood Ave & Berteau Ave;2022-09-16 19:35:00;2022-09-17 03:45:00;6
+member;08:10:00;Financial Pl & Ida B Wells Dr;Field Museum;2022-08-18 23:40:00;2022-08-19 07:50:00;5
+member;08:09:00;Campbell Ave & North Ave;Dayton St & North Ave;2022-05-04 22:42:00;2022-05-05 06:51:00;4
+member;08:08:00;Jefferson St & Monroe St;LaSalle St & Washington St;2022-05-25 23:21:00;2022-05-26 07:29:00;4
+member;08:08:00;Canal St & Adams St;Michigan Ave & Pearson St;2022-07-27 10:24:00;2022-07-27 18:32:00;4
+member;08:08:00;Wabash Ave & Adams St;Michigan Ave & 8th St;2022-04-14 03:24:00;2022-04-14 11:32:00;5
+member;08:06:00;Lincoln Ave & Diversey Pkwy;Fairbanks St & Superior St;2022-06-07 08:37:00;2022-06-07 16:43:00;3
+member;08:06:00;Broadway & Argyle St;Clark St & Winnemac Ave;2022-10-13 22:43:00;2022-10-14 06:49:00;5
+member;08:04:00;Loomis St & Lexington St;Ogden Ave & Roosevelt Rd;2022-08-20 23:15:00;2022-08-21 07:19:00;7
+member;08:04:00;Paulina St & Howard St;Benson Ave & Church St;2022-09-08 11:40:00;2022-09-08 19:44:00;5
+member;08:03:00;Greenview Ave & Fullerton Ave;Keystone Ave & Fullerton Ave;2022-08-26 18:44:00;2022-08-27 02:47:00;6
+member;08:02:00;Leavitt St & Division St;Western Ave & Winnebago Ave;2022-06-04 00:47:00;2022-06-04 08:49:00;7
+member;08:01:00;;;2022-12-08 16:22:00;2022-12-09 00:23:00;5
+member;08:01:00;Franklin St & Lake St;;2022-10-04 11:14:00;2022-10-04 19:15:00;3
+member;08:01:00;Michigan Ave & Lake St;LaSalle Dr & Huron St;2022-04-11 10:31:00;2022-04-11 18:32:00;2
+member;08:01:00;Eckhart Park;Aberdeen St & Randolph St;2022-02-12 01:17:00;2022-02-12 09:18:00;7
+member;08:01:00;LaSalle Dr & Huron St;;2022-02-06 10:28:00;2022-02-06 18:29:00;1
+member;08:00:00;LaSalle St & Illinois St;;2022-02-11 13:37:00;2022-02-11 21:37:00;6
+member;08:00:00;;;2022-04-29 17:30:00;2022-04-30 01:30:00;6
+member;08:00:00;Aberdeen St & Monroe St;;2022-04-04 08:10:00;2022-04-04 16:10:00;2
+member;08:00:00;;;2022-03-15 12:41:00;2022-03-15 20:41:00;3
+member;08:00:00;;;2022-03-19 23:48:00;2022-03-20 07:48:00;7
+member;08:00:00;Larrabee St & Kingsbury St;;2022-08-26 11:47:00;2022-08-26 19:47:00;6
+member;08:00:00;Dearborn St & Erie St;;2022-03-06 13:33:00;2022-03-06 21:33:00;1
+member;08:00:00;Wells St & Hubbard St;;2022-08-22 12:50:00;2022-08-22 20:50:00;2
+member;08:00:00;Wabash Ave & Grand Ave;;2022-03-06 12:22:00;2022-03-06 20:22:00;1
+member;08:00:00;;;2022-09-09 16:51:00;2022-09-10 00:51:00;6
+member;08:00:00;;;2022-03-19 10:55:00;2022-03-19 18:55:00;7
+member;08:00:00;;;2022-09-20 09:51:00;2022-09-20 17:51:00;3
+member;08:00:00;;;2022-09-10 11:26:00;2022-09-10 19:26:00;7
+member;08:00:00;Campbell Ave & Irving Park Rd;Campbell Ave & Irving Park Rd;2022-09-06 16:24:00;2022-09-07 00:24:00;3
+member;08:00:00;;;2023-01-13 11:50:00;2023-01-13 19:50:00;6
+member;08:00:00;;;2023-01-05 11:56:00;2023-01-05 19:56:00;5
+member;08:00:00;Green St & Randolph St;;2022-04-12 15:09:00;2022-04-12 23:09:00;3
+member;08:00:00;;;2022-11-21 10:24:00;2022-11-21 18:24:00;2
+member;08:00:00;;;2022-11-22 11:07:00;2022-11-22 19:07:00;3
+member;08:00:00;;;2022-11-29 12:10:00;2022-11-29 20:10:00;3
+member;08:00:00;;;2022-11-26 14:28:00;2022-11-26 22:28:00;7
+member;08:00:00;;;2022-11-06 12:32:00;2022-11-06 20:32:00;1
+member;08:00:00;;;2023-01-22 11:28:00;2023-01-22 19:28:00;1
+member;08:00:00;Cottage Grove Ave & 43rd St;;2023-01-11 12:21:00;2023-01-11 20:21:00;4
+member;08:00:00;;;2023-01-06 12:20:00;2023-01-06 20:20:00;6
+member;08:00:00;Cottage Grove Ave & 51st St;;2023-01-10 11:05:00;2023-01-10 19:05:00;3
+member;08:00:00;;;2023-01-17 13:08:00;2023-01-17 21:08:00;3
+member;08:00:00;;;2023-01-15 11:11:00;2023-01-15 19:11:00;1
+member;08:00:00;Woodlawn Ave & Lake Park Ave;;2022-11-11 10:55:00;2022-11-11 18:55:00;6
+member;08:00:00;;;2022-08-24 17:27:00;2022-08-25 01:27:00;4
+member;08:00:00;Pine Grove Ave & Waveland Ave;;2022-10-23 09:47:00;2022-10-23 17:47:00;1
+member;08:00:00;Wentworth Ave & Cermak Rd;;2022-10-22 13:49:00;2022-10-22 21:49:00;7
+member;08:00:00;Millennium Park;;2022-10-17 12:09:00;2022-10-17 20:09:00;2
+member;08:00:00;Michigan Ave & Ida B Wells Dr;;2022-10-06 13:26:00;2022-10-06 21:26:00;5
+member;08:00:00;Canal St & Adams St;;2022-10-07 13:03:00;2022-10-07 21:03:00;6
+member;08:00:00;LaSalle St & Illinois St;;2022-09-03 10:34:00;2022-09-03 18:34:00;7
+member;08:00:00;Ellis Ave & 55th St;;2022-09-07 11:36:00;2022-09-07 19:36:00;4
+member;08:00:00;Cornell Ave & Hyde Park Blvd;;2022-10-27 10:21:00;2022-10-27 18:21:00;5
+member;08:00:00;Kimbark Ave & 53rd St;;2022-11-04 11:39:00;2022-11-04 19:39:00;6
+member;08:00:00;;;2022-07-16 10:53:00;2022-07-16 18:53:00;7
+member;08:00:00;Canal St & Jackson Blvd;;2022-10-11 11:38:00;2022-10-11 19:38:00;3
+member;08:00:00;;;2022-07-30 15:57:00;2022-07-30 23:57:00;7
+member;08:00:00;Sheridan Rd & Irving Park Rd;;2022-07-10 13:10:00;2022-07-10 21:10:00;1
+member;08:00:00;Kimbark Ave & 53rd St;;2022-07-09 11:44:00;2022-07-09 19:44:00;7
+member;08:00:00;Blackstone Ave & Hyde Park Blvd;;2022-11-02 10:28:00;2022-11-02 18:28:00;4
+member;08:00:00;Lincoln Ave & Roscoe St;;2022-07-15 13:10:00;2022-07-15 21:10:00;6
+member;08:00:00;;;2022-07-11 16:19:00;2022-07-12 00:19:00;2
+member;08:00:00;Federal St & Polk St;;2022-10-27 11:33:00;2022-10-27 19:33:00;5
+member;08:00:00;;;2022-07-20 10:51:00;2022-07-20 18:51:00;4
+member;08:00:00;;;2022-07-28 13:25:00;2022-07-28 21:25:00;5
+member;08:00:00;Ritchie Ct & Banks St;;2022-10-21 12:36:00;2022-10-21 20:36:00;6
+member;08:00:00;Sheridan Rd & Noyes St (NU);;2023-01-14 20:47:00;2023-01-15 04:47:00;7
+member;08:00:00;Clark St & Armitage Ave;Wilton Ave & Belmont Ave;2022-05-21 22:57:00;2022-05-22 06:57:00;7
+member;08:00:00;;;2022-12-02 13:51:00;2022-12-02 21:51:00;6
+member;08:00:00;;;2022-09-06 11:59:00;2022-09-06 19:59:00;3
+member;08:00:00;;;2022-09-01 12:29:00;2022-09-01 20:29:00;5
+member;08:00:00;;;2022-12-30 08:04:00;2022-12-30 16:04:00;6
+member;08:00:00;;;2022-12-28 12:16:00;2022-12-28 20:16:00;4
+member;08:00:00;Larrabee St & North Ave;Narragansett & Wrightwood;2022-08-10 11:51:00;2022-08-10 19:51:00;4
+member;08:00:00;;;2022-12-10 20:22:00;2022-12-11 04:22:00;7
+member;08:00:00;Ashland Ave & Augusta Blvd;;2022-08-12 05:55:00;2022-08-12 13:55:00;6
+member;08:00:00;;;2022-08-06 01:01:00;2022-08-06 09:01:00;7
+member;08:00:00;Francisco Ave & Bloomingdale Ave;;2022-12-01 16:29:00;2022-12-02 00:29:00;5
+member;08:00:00;Franklin St & Chicago Ave;;2022-06-15 23:33:00;2022-06-16 07:33:00;4
+member;08:00:00;;;2022-08-15 10:35:00;2022-08-15 18:35:00;2
+member;08:00:00;Michigan Ave & 8th St;;2022-06-08 10:36:00;2022-06-08 18:36:00;4
+member;08:00:00;;;2022-06-09 12:41:00;2022-06-09 20:41:00;5
+member;08:00:00;;;2022-06-17 14:38:00;2022-06-17 22:38:00;6
+member;08:00:00;Cornell Ave & Hyde Park Blvd;;2022-06-22 12:08:00;2022-06-22 20:08:00;4
+member;08:00:00;;;2022-06-23 13:01:00;2022-06-23 21:01:00;5
+member;08:00:00;Lake Park Ave & 47th St;;2022-09-23 12:11:00;2022-09-23 20:11:00;6
+member;08:00:00;Franklin St & Jackson Blvd;;2022-09-19 11:27:00;2022-09-19 19:27:00;2
+member;08:00:00;;;2022-05-19 06:35:00;2022-05-19 14:35:00;5
+member;08:00:00;Shedd Aquarium;;2022-05-11 15:02:00;2022-05-11 23:02:00;4
+member;08:00:00;Lake Park Ave & 53rd St;;2022-09-10 17:16:00;2022-09-11 01:16:00;7
+member;08:00:00;;;2022-05-19 21:49:00;2022-05-20 05:49:00;5
+member;08:00:00;Kingsbury St & Kinzie St;;2022-09-05 10:44:00;2022-09-05 18:44:00;2
+member;08:00:00;Lake Park Ave & 53rd St;;2022-10-23 09:21:00;2022-10-23 17:21:00;1
+member;08:00:00;Lake Park Ave & 53rd St;;2022-10-18 11:27:00;2022-10-18 19:27:00;3
