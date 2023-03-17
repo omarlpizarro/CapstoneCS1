@@ -6,7 +6,7 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 ```
 
 cantidad de member y casual
@@ -87,7 +87,7 @@ df_freq_trip_mem_month <- read.csv("freq_by_trip_for_member_for_month.csv",sep='
 df_freq_trip_mem_day <- read.csv("freq_by_trip_for_member_for_day.csv",sep=';')
 df_dur_trip_casual <- read.csv("duration_trip_casual.csv",sep=';') 
 df_dur_trip_member <- read.csv("duration_trip_member.csv",sep=';') 
-df_end_stat_top100 <- read.csv("end_station_by_member_top100.csv",sep=';')  
+df_end_stat_top100 <- read.csv("end_station_by_member_top100.csv",sep=';')
 df_start_stat_top100 <- read.csv("start_station_by_member_top100.csv",sep=';') 
 df_num_ride_hours <- read.csv("num_ride_eight_hours.csv",sep=';')  
 df_num_trip_month <- read.csv("cant_trip_per_month.csv",sep=';')
@@ -126,3 +126,176 @@ glimpse(df_num_trip_month)
 ```{r number of trips by day of week per member}
 glimpse(df_num_trip_day)
 ```
+## Process
+The decision is to join the 12 files into one, import it into a database and create sql queries to extract summarized information, then analyze that information with R to be able to document the entire process.  
+
+To ensure data integrity, the download has been checked against the zip files in the web.
+
+Find null and empty values.  
+
+Querys:  
+Select 
+      count(*) 
+      from Tripdata_2022 
+      where start_station_id=''  
+      
+843525 empty values in start_station_id  
+
+
+Select  
+      count(*)  
+      from Tripdata_2022  
+      where end_station_id=''  
+      
+902655 empty values in end_station_id  
+
+
+Select  
+      count(*)  
+      from Tripdata_2022  
+      where member_casual=''
+
+No empty values in member_casual  
+
+There are only two values for the column member_casual: 'member' and 'casual'  
+
+## Analize
+We find insights and trends  
+
+```{r arrange freq number trip member} 
+arrange(df_freq_trip_mem_month, desc(num_trip))
+```
+
+### Plot of num trip vs month
+```{r}
+ggplot(data=df_freq_trip_mem_month, aes(x=Month, y=num_trip)) + 
+  geom_point() + 
+  geom_smooth() + 
+  scale_y_continuous(labels = scales::comma) +
+  scale_x_continuous(breaks = seq(from = 1, to = 12, by = 1)) +
+  ylab("Number trips") +
+  xlab("Month") +
+  facet_wrap(~member_casual) +
+  labs(title="Number trips vs. Month")
+```
+Los meses que mas trips hay son de mayo a octubre para ambos miembros.  
+
+
+
+```{r}
+ggplot(data=df_freq_trip_mem_month, aes(x=Month, y=num_trip, 
+                                        group=member_casual)) + 
+  geom_line(aes (linetype=member_casual, color=member_casual), size=1.5) +
+  scale_y_continuous(labels = scales::comma) +
+  scale_x_continuous(breaks = seq(from = 1, to = 12, by = 1)) +
+  ylab("Number trips") +
+  xlab("Month") +
+  labs(title="Number trips vs. Month")
+```
+
+
+
+```{r}
+ggplot(data=df_freq_trip_mem_day, aes(x=day_of_week, y=num_trip, 
+                                        group=member_casual,
+                                        color=member_casual)) + 
+  geom_line(size=2) +
+  scale_y_continuous(labels = scales::comma) +
+  scale_x_continuous(breaks = seq(from = 1, to = 7, by = 1)) +
+  ylab("Number trips") +
+  xlab("Day of week") +
+  facet_wrap(~Month) +
+  labs(title="Number trips by day of week")
+```
+
+Calcular el promedio, minimo y maximo de cantidad de trips para cadia dia de la semana.  
+
+
+```{r average min max number trips} 
+df_summ <- df_freq_trip_mem_day %>%
+  group_by(member_casual, day_of_week) %>%
+  summarise(average_num_trip=mean(num_trip),
+            min_num_trip=min(num_trip),
+            max_num_trip=max(num_trip))
+#  filter(member_casual=="member") %>%
+arrange(df_summ, desc(average_num_trip))
+```
+
+
+```{r plot average vs day of week} 
+ggplot(data=df_summ, aes(x=day_of_week, y=average_num_trip, 
+                                        group=member_casual,
+                                        color=member_casual)) + 
+  geom_line(size=2) +
+  scale_y_continuous(labels = scales::comma) +
+  scale_x_continuous(breaks = seq(from = 1, to = 7, by = 1)) +
+  ylab("Average trips") +
+  xlab("Day of week 1:Sunday .. 7:Saturday") +
+  labs(title="Average of trips vs day of week")
+```
+
+En el plot se observa que:  
+Los miembros anuales viajan mas en promedio los dias martes a jueves.  
+Los miembros casuales viajan mas en promedio os dias sabados y domingos
+Esto es correcto si tenemos en cuenta que los miembros anuales usan Cyclistic para ir al trabajo y los miembros casual para pasear.
+
+
+```{r}
+df_num_trip_month %>%
+  group_by(member_casual) %>%
+  select(num_trip, member_casual) %>%
+  summarise(total_trip_member = sum(num_trip))
+```
+
+Los miembros annual viajan 1.5 veces mas que los miembros casual.  
+
+
+Find cantidad de trips para start station por member
+
+```{r top10 start station number trips}
+df_start_stat_top100 %>%
+  arrange(desc(num_start_Station)) %>%
+  slice_head(n = 10)
+```
+
+Las estaciones de salida mas usadas son:  
+Streeter Dr & Grand Ave  
+DuSable Lake Shore Dr & Monroe St  
+Millennium Park  
+Michigan Ave & Oak St  
+Y son usadas por miembros casual
+
+
+```{r top10 number trips end station}
+df_end_stat_top100 %>%
+  arrange(desc(num_end_Station)) %>%
+  slice_head(n = 10)
+```
+
+Las estaciones de llegada mas usadas son:  
+Streeter Dr & Grand Ave  
+DuSable Lake Shore Dr & Monroe St  
+Millennium Park  
+Michigan Ave & Oak St  
+DuSable Lake Shore Dr & North Blvd  
+y son usadas por miembros casual
+
+Resumen miembros casual  
+La estación de salida y llegada mas usada para miembros casual es
+Streeter Dr & Grand Ave con 58270 salidas y 60092 llegadas.
+
+
+Resumen miembros annual  
+La estacion de salida y llegada mas usada es Kingsbury St & Kinzie St con 25239
+trips para la salida y 25094 para la llegada.  
+
+
+Find trips superior a ocho horas
+
+```{r}
+view(df_num_ride_hours)
+```
+
+
+Los miembros casual tienen cuatro veces viajes mas largos que los
+miembros annual.
